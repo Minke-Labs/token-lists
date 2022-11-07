@@ -12,7 +12,7 @@
   "tokens": [
     {
       "symbol": "BNB",
-      "address": "0x0000000000000000000000000000000000001010",
+      "address": "0x0000000000000000000000000000000000000000",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 56,

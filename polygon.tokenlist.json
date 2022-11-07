@@ -12,7 +12,7 @@
   "tokens": [
     {
       "symbol": "MATIC",
-      "address": "0x0000000000000000000000000000000000001010",
+      "address": "0x0000000000000000000000000000000000000000",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
@@ -1296,7 +1296,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "The Sandbox",
-      "symbol": "sand"
+      "symbol": "SAND"
     },
     {
       "address": "0x596ebe76e2db4470966ea395b0d063ac6197a8c5",
@@ -1624,7 +1624,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Klima DAO",
-      "symbol": "klima"
+      "symbol": "KLIMA"
     },
     {
       "address": "0x221836a597948dce8f3568e044ff123108acc42a",
@@ -1864,7 +1864,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "IX",
-      "symbol": "ixt"
+      "symbol": "IXT"
     },
     {
       "address": "0x32934cb16da43fd661116468c1b225fc26cf9a8c",
@@ -1928,7 +1928,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Avalanche",
-      "symbol": "avax"
+      "symbol": "AVAX"
     },
     {
       "address": "0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4",
@@ -2224,7 +2224,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Gains Network",
-      "symbol": "gns"
+      "symbol": "GNS"
     },
     {
       "address": "0x7ffc48db599137e7a994bb8309f124e77b392043",
@@ -2416,7 +2416,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ZED RUN",
-      "symbol": "zed"
+      "symbol": "ZED"
     },
     {
       "address": "0x8f06208951e202d30769f50faec22aeec7621be2",
@@ -2680,7 +2680,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Dogelon Mars",
-      "symbol": "elon"
+      "symbol": "ELON"
     },
     {
       "address": "0x5dd05762b831a977b974db8759772d41f3d5ff0b",
@@ -2769,6 +2769,46 @@
       "chainId": 137,
       "name": "Paxos Gold (PoS)",
       "symbol": "PAXG"
+    },
+    {
+      "symbol": "MTA",
+      "address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
+      "decimals": 18,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 137,
+      "name": "Meta (PoS)"
+    },
+    {
+      "symbol": "ROLL",
+      "name": "Polyroll",
+      "address": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
+      "decimals": 18,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 137
+    },
+    {
+      "symbol": "POOL",
+      "name": "PoolTogether",
+      "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+      "decimals": 18,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 137
+    },
+    {
+      "symbol": "SPHERE",
+      "name": "Sphere Finance",
+      "address": "0x62f594339830b90ae4c084ae7d223ffafd9658a7",
+      "decimals": 18,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 137
+    },
+    {
+      "symbol": "SNX",
+      "name": "Synthetix Network",
+      "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+      "decimals": 18,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 137
     }
   ],
   "version": {
