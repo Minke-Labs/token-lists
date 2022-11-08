@@ -43,7 +43,7 @@
       "name": "Wrapped Bitcoin"
     },
     {
-      "symbol": "renBTC",
+      "symbol": "RENBTC",
       "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/renBTC.png",
@@ -67,7 +67,7 @@
       "name": "Euro Tether"
     },
     {
-      "symbol": "jEUR",
+      "symbol": "JEUR",
       "address": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -75,7 +75,7 @@
       "name": "Jarvis Synthetic Euro"
     },
     {
-      "symbol": "jGBP",
+      "symbol": "JGBP",
       "address": "0x7409856cae628f5d578b285b45669b36e7005283",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -83,7 +83,7 @@
       "name": "Jarvis Synthetic British Pound"
     },
     {
-      "symbol": "jCHF",
+      "symbol": "JCHF",
       "address": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -227,7 +227,7 @@
       "name": "WOO Network"
     },
     {
-      "symbol": "stETH",
+      "symbol": "STETH",
       "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/stETH.png",
@@ -235,7 +235,7 @@
       "name": "Lido Staked Ether"
     },
     {
-      "symbol": "cUNI",
+      "symbol": "CUNI",
       "address": "0x35a18000230da775cac24873d00ff85bccded550",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -267,7 +267,7 @@
       "name": "DAO Maker"
     },
     {
-      "symbol": "sUSD",
+      "symbol": "SUSD",
       "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/sUSD.png",
@@ -283,7 +283,7 @@
       "name": "Curve DAO"
     },
     {
-      "symbol": "sETH",
+      "symbol": "SETH",
       "address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/sETH.png",
@@ -291,7 +291,7 @@
       "name": "sETH"
     },
     {
-      "symbol": "sEUR",
+      "symbol": "SEUR",
       "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -315,7 +315,7 @@
       "name": "Fantom"
     },
     {
-      "symbol": "xSUSHI",
+      "symbol": "XSUSHI",
       "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -323,7 +323,7 @@
       "name": "xSUSHI"
     },
     {
-      "symbol": "axSUSHI",
+      "symbol": "AXSUSHI",
       "address": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -355,7 +355,7 @@
       "name": "Dola"
     },
     {
-      "symbol": "alUSD",
+      "symbol": "ALUSD",
       "address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -443,7 +443,7 @@
       "name": "Rubic"
     },
     {
-      "symbol": "yveCRV",
+      "symbol": "YVECRV",
       "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -483,7 +483,7 @@
       "name": "88mph"
     },
     {
-      "symbol": "aBAL",
+      "symbol": "ABAL",
       "address": "0x272f97b7a56a387ae942350bbc7df5700f8a4576",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -491,7 +491,7 @@
       "name": "Aave BAL"
     },
     {
-      "symbol": "sLINK",
+      "symbol": "SLINK",
       "address": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -499,7 +499,7 @@
       "name": "Synth sLINK"
     },
     {
-      "symbol": "sDOT",
+      "symbol": "SDOT",
       "address": "0x1715ac0743102bf5cd58efbb6cf2dc2685d967b6",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -507,7 +507,7 @@
       "name": "Synth sDOT"
     },
     {
-      "symbol": "iDOT",
+      "symbol": "IDOT",
       "address": "0x46a97629c9c1f58de6ec18c7f536e7e6d6a6ecde",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -515,7 +515,7 @@
       "name": "Synth iDOT"
     },
     {
-      "symbol": "sAAVE",
+      "symbol": "SAAVE",
       "address": "0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -523,7 +523,7 @@
       "name": "Synth sAAVE"
     },
     {
-      "symbol": "iAAVE",
+      "symbol": "IAAVE",
       "address": "0x176c674ee533c6139b0dc8b458d72a93dcb3e705",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -531,7 +531,7 @@
       "name": "Synth iAAVE"
     },
     {
-      "symbol": "sUNI",
+      "symbol": "SUNI",
       "address": "0x30635297e450b930f8693297eba160d9e6c8ebcf",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -539,7 +539,7 @@
       "name": "Synth sUNI"
     },
     {
-      "symbol": "iUNI",
+      "symbol": "IUNI",
       "address": "0x36a00ff9072570ef4b9292117850b8fe08d96cce",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -547,7 +547,7 @@
       "name": "Synth iUNI"
     },
     {
-      "symbol": "sYFI",
+      "symbol": "SYFI",
       "address": "0x992058b7db08f9734d84485bfbc243c4ee6954a7",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -555,7 +555,7 @@
       "name": "Synth sYFI"
     },
     {
-      "symbol": "iYFI",
+      "symbol": "IYFI",
       "address": "0x592244301cea952d6dab2fdc1fe6bd9e53917306",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -563,7 +563,7 @@
       "name": "Synth iYFI"
     },
     {
-      "symbol": "sCOMP",
+      "symbol": "SCOMP",
       "address": "0xeb029507d3e043dd6c87f2917c4e82b902c35618",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -571,7 +571,7 @@
       "name": "Synth sCOMP"
     },
     {
-      "symbol": "iCOMP",
+      "symbol": "ICOMP",
       "address": "0x6345728b1cce16e6f8c509950b5c84fff88530d9",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -579,7 +579,7 @@
       "name": "Synth iCOMP"
     },
     {
-      "symbol": "sREN",
+      "symbol": "SREN",
       "address": "0xd31533e8d0f3df62060e94b3f1318137bb6e3525",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -587,7 +587,7 @@
       "name": "Synth sREN"
     },
     {
-      "symbol": "iREN",
+      "symbol": "IREN",
       "address": "0x348c3c80c4f23574bc8cdf669a0dc106a4e32bff",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -643,7 +643,7 @@
       "name": "LINKUSD"
     },
     {
-      "symbol": "cyUSDT",
+      "symbol": "CYUSDT",
       "address": "0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -651,7 +651,7 @@
       "name": "Iron Bank Tether USD"
     },
     {
-      "symbol": "cyUSDC",
+      "symbol": "CYUSDC",
       "address": "0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -659,7 +659,7 @@
       "name": "Iron Bank USD Coin"
     },
     {
-      "symbol": "cyDAI",
+      "symbol": "CYDAI",
       "address": "0x8e595470ed749b85c6f7669de83eae304c2ec68f",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -667,7 +667,7 @@
       "name": "Iron Bank Dai Stablecoin"
     },
     {
-      "symbol": "ankrETH",
+      "symbol": "ANKRETH",
       "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -675,7 +675,7 @@
       "name": "Ankr Reward-Bearing Staked ETH"
     },
     {
-      "symbol": "oBTC",
+      "symbol": "OBTC",
       "address": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -715,7 +715,7 @@
       "name": "Wrapped USTC"
     },
     {
-      "symbol": "renDOGE",
+      "symbol": "RENDOGE",
       "address": "0x3832d2f059e55934220881f831be501d180671a7",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -731,7 +731,7 @@
       "name": "LP 3pool Curve"
     },
     {
-      "symbol": "sbtcCRV",
+      "symbol": "SBTCCRV",
       "address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -755,7 +755,7 @@
       "name": "Furucombo"
     },
     {
-      "symbol": "stXEM",
+      "symbol": "STXEM",
       "address": "0x0c63cae5fcc2ca3dde60a35e50362220651ebec8",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/stXEM.png",
@@ -1267,7 +1267,7 @@
       "name": "Yield App"
     },
     {
-      "symbol": "ibETH",
+      "symbol": "IBETH",
       "address": "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/ibETH.png",
@@ -1371,7 +1371,7 @@
       "name": "DODO"
     },
     {
-      "symbol": "aCRV",
+      "symbol": "ACRV",
       "address": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/CRV.png",
@@ -1379,7 +1379,7 @@
       "name": "Aave CRV"
     },
     {
-      "symbol": "aYFI",
+      "symbol": "AYFI",
       "address": "0x5165d24277cd063f5ac44efd447b27025e888f37",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aYFI.png",
@@ -1387,7 +1387,7 @@
       "name": "Aave YFI"
     },
     {
-      "symbol": "aYFIv1",
+      "symbol": "AYFIV1",
       "address": "0x12e51e77daaa58aa0e9247db7510ea4b46f9bead",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aYFI.png",
@@ -1395,7 +1395,7 @@
       "name": "Aave Interest bearing YFI"
     },
     {
-      "symbol": "aAAVE",
+      "symbol": "AAAVE",
       "address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aAAVE.png",
@@ -1403,7 +1403,7 @@
       "name": "Aave AAVE"
     },
     {
-      "symbol": "aDAI",
+      "symbol": "ADAI",
       "address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aDAI.png",
@@ -1411,7 +1411,7 @@
       "name": "Aave DAI"
     },
     {
-      "symbol": "aREN",
+      "symbol": "AREN",
       "address": "0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aREN.png",
@@ -1419,7 +1419,7 @@
       "name": "Aave REN"
     },
     {
-      "symbol": "aUNI",
+      "symbol": "AUNI",
       "address": "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aUNI.png",
@@ -1427,7 +1427,7 @@
       "name": "Aave UNI"
     },
     {
-      "symbol": "aWETH",
+      "symbol": "AWETH",
       "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aWETH.png",
@@ -1435,7 +1435,7 @@
       "name": "Aave WETH"
     },
     {
-      "symbol": "aUSDC",
+      "symbol": "AUSDC",
       "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/aUSDC.png",
@@ -1443,7 +1443,7 @@
       "name": "Aave USDC"
     },
     {
-      "symbol": "aSUSD",
+      "symbol": "ASUSD",
       "address": "0x6c5024cd4f8a59110119c56f8933403a539555eb",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aSUSD.png",
@@ -1451,7 +1451,7 @@
       "name": "Aave SUSD"
     },
     {
-      "symbol": "aTUSD",
+      "symbol": "ATUSD",
       "address": "0x101cc05f4a51c0319f570d5e146a8c625198e636",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aTUSD.png",
@@ -1459,7 +1459,7 @@
       "name": "Aave TUSD"
     },
     {
-      "symbol": "aUSDT",
+      "symbol": "AUSDT",
       "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/aUSDT.png",
@@ -1467,7 +1467,7 @@
       "name": "Aave USDT"
     },
     {
-      "symbol": "aBAT",
+      "symbol": "ABAT",
       "address": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aBAT.png",
@@ -1475,7 +1475,7 @@
       "name": "Aave BAT"
     },
     {
-      "symbol": "aKNC",
+      "symbol": "AKNC",
       "address": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aKNC.png",
@@ -1483,7 +1483,7 @@
       "name": "Aave KNC"
     },
     {
-      "symbol": "aLINK",
+      "symbol": "ALINK",
       "address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aLINK.png",
@@ -1491,7 +1491,7 @@
       "name": "Aave LINK"
     },
     {
-      "symbol": "aMANA",
+      "symbol": "AMANA",
       "address": "0xa685a61171bb30d4072b338c80cb7b2c865c873e",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aMANA.png",
@@ -1499,7 +1499,7 @@
       "name": "Aave MANA"
     },
     {
-      "symbol": "aMKR",
+      "symbol": "AMKR",
       "address": "0xc713e5e149d5d0715dcd1c156a020976e7e56b88",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aMKR.png",
@@ -1507,7 +1507,7 @@
       "name": "Aave MKR"
     },
     {
-      "symbol": "aBUSD",
+      "symbol": "ABUSD",
       "address": "0xa361718326c15715591c299427c62086f69923d9",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aBUSD.png",
@@ -1515,7 +1515,7 @@
       "name": "Aave BUSD"
     },
     {
-      "symbol": "aENJ",
+      "symbol": "AENJ",
       "address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aENJ.png",
@@ -1523,7 +1523,7 @@
       "name": "Aave ENJ"
     },
     {
-      "symbol": "aSNX",
+      "symbol": "ASNX",
       "address": "0x35f6b052c598d933d69a4eec4d04c73a191fe6c2",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aSNX.png",
@@ -1531,7 +1531,7 @@
       "name": "Aave SNX"
     },
     {
-      "symbol": "aWBTC",
+      "symbol": "AWBTC",
       "address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/aWBTC.png",
@@ -1539,7 +1539,7 @@
       "name": "Aave WBTC"
     },
     {
-      "symbol": "aZRX",
+      "symbol": "AZRX",
       "address": "0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aZRX.png",
@@ -1547,7 +1547,7 @@
       "name": "Aave ZRX"
     },
     {
-      "symbol": "aAAVEv1",
+      "symbol": "AAAVEV1",
       "address": "0xba3d9687cf50fe253cd2e1cfeede1d6787344ed5",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aAAVE.png",
@@ -1555,7 +1555,7 @@
       "name": "Aave Interest bearing Aave Token"
     },
     {
-      "symbol": "aRENv1",
+      "symbol": "ARENV1",
       "address": "0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aREN.png",
@@ -1563,7 +1563,7 @@
       "name": "Aave REN v1"
     },
     {
-      "symbol": "aUNIv1",
+      "symbol": "AUNIV1",
       "address": "0xb124541127a0a657f056d9dd06188c4f1b0e5aab",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aUNI.png",
@@ -1571,7 +1571,7 @@
       "name": "Aave Interest bearing Uniswap"
     },
     {
-      "symbol": "LENDv1",
+      "symbol": "LENDV1",
       "address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/LEND.png",
@@ -1579,7 +1579,7 @@
       "name": "Aave [OLD]"
     },
     {
-      "symbol": "aETHv1",
+      "symbol": "AETHV1",
       "address": "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aETH.png",
@@ -1587,7 +1587,7 @@
       "name": "Aave ETH v1"
     },
     {
-      "symbol": "aDAIv1",
+      "symbol": "ADAIV1",
       "address": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aDAI.png",
@@ -1595,7 +1595,7 @@
       "name": "Aave DAI v1"
     },
     {
-      "symbol": "aUSDCv1",
+      "symbol": "AUSDCV1",
       "address": "0x9ba00d6856a4edf4665bca2c2309936572473b7e",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/aUSDC.png",
@@ -1603,7 +1603,7 @@
       "name": "Aave USDC v1"
     },
     {
-      "symbol": "aSUSDv1",
+      "symbol": "ASUSDV1",
       "address": "0x625ae63000f46200499120b906716420bd059240",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aSUSD.png",
@@ -1611,7 +1611,7 @@
       "name": "Aave SUSD v1"
     },
     {
-      "symbol": "aTUSDv1",
+      "symbol": "ATUSDV1",
       "address": "0x4da9b813057d04baef4e5800e36083717b4a0341",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aTUSD.png",
@@ -1619,7 +1619,7 @@
       "name": "Aave TUSD v1"
     },
     {
-      "symbol": "aUSDTv1",
+      "symbol": "AUSDTV1",
       "address": "0x71fc860f7d3a592a4a98740e39db31d25db65ae8",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/aUSDT.png",
@@ -1627,7 +1627,7 @@
       "name": "Aave USDT v1"
     },
     {
-      "symbol": "aBATv1",
+      "symbol": "ABATV1",
       "address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aBAT.png",
@@ -1635,7 +1635,7 @@
       "name": "Aave BAT v1"
     },
     {
-      "symbol": "aKNCv1",
+      "symbol": "AKNCV1",
       "address": "0x9d91be44c06d373a8a226e1f3b146956083803eb",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aKNC.png",
@@ -1643,7 +1643,7 @@
       "name": "Aave KNC v1"
     },
     {
-      "symbol": "aLINKv1",
+      "symbol": "ALINKV1",
       "address": "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aLINK.png",
@@ -1651,7 +1651,7 @@
       "name": "Aave LINK v1"
     },
     {
-      "symbol": "aLENDv1",
+      "symbol": "ALENDV1",
       "address": "0x7d2d3688df45ce7c552e19c27e007673da9204b8",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aLEND.png",
@@ -1659,7 +1659,7 @@
       "name": "Aave Interest bearing LEND"
     },
     {
-      "symbol": "aMANAv1",
+      "symbol": "AMANAV1",
       "address": "0x6fce4a401b6b80ace52baaefe4421bd188e76f6f",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aMANA.png",
@@ -1667,7 +1667,7 @@
       "name": "Aave MANA v1"
     },
     {
-      "symbol": "aMKRv1",
+      "symbol": "AMKRV1",
       "address": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aMKR.png",
@@ -1675,7 +1675,7 @@
       "name": "Aave MKR v1"
     },
     {
-      "symbol": "aBUSDv1",
+      "symbol": "ABUSDV1",
       "address": "0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aBUSD.png",
@@ -1683,7 +1683,7 @@
       "name": "Aave BUSD v1"
     },
     {
-      "symbol": "aENJv1",
+      "symbol": "AENJV1",
       "address": "0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aENJ.png",
@@ -1691,7 +1691,7 @@
       "name": "Aave ENJ v1"
     },
     {
-      "symbol": "aREPv1",
+      "symbol": "AREPV1",
       "address": "0x71010a9d003445ac60c4e6a7017c1e89a477b438",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aREP.png",
@@ -1699,7 +1699,7 @@
       "name": "Aave Interest bearing REP"
     },
     {
-      "symbol": "aSNXv1",
+      "symbol": "ASNXV1",
       "address": "0x328c4c80bc7aca0834db37e6600a6c49e12da4de",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aSNX.png",
@@ -1707,7 +1707,7 @@
       "name": "Aave SNX v1"
     },
     {
-      "symbol": "aWBTCv1",
+      "symbol": "AWBTCV1",
       "address": "0xfc4b8ed459e00e5400be803a9bb3954234fd50e3",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/aWBTC.png",
@@ -1715,7 +1715,7 @@
       "name": "Aave WBTC v1"
     },
     {
-      "symbol": "aZRXv1",
+      "symbol": "AZRXV1",
       "address": "0x6fb0855c404e09c47c3fbca25f08d4e41f9f062f",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/aZRX.png",
@@ -1803,7 +1803,7 @@
       "name": "Rook"
     },
     {
-      "symbol": "STABLEx",
+      "symbol": "STABLEX",
       "address": "0xcd91538b91b4ba7797d39a2f66e63810b50a33d0",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -1995,7 +1995,7 @@
       "name": "Gemini Dollar"
     },
     {
-      "symbol": "REPv2",
+      "symbol": "REPV2",
       "address": "0x221657776846890989a759ba2973e427dff5c9bb",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/REPv2.png",
@@ -2003,7 +2003,7 @@
       "name": "Augur"
     },
     {
-      "symbol": "YAMv3",
+      "symbol": "YAMV3",
       "address": "0x0aacfbec6a24756c20d41914f2caba817c0d8521",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/YAMv2.png",
@@ -2011,7 +2011,7 @@
       "name": "YAM"
     },
     {
-      "symbol": "eXRD",
+      "symbol": "EXRD",
       "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -2147,7 +2147,7 @@
       "name": "HEX"
     },
     {
-      "symbol": "xBTC",
+      "symbol": "XBTC",
       "address": "0xecbf566944250dde88322581024e611419715f7a",
       "decimals": 9,
       "logoURI": "https://cdn.paraswap.io/token/xBTC.png",
@@ -2379,7 +2379,7 @@
       "name": "Based Money"
     },
     {
-      "symbol": "YAMv2",
+      "symbol": "YAMV2",
       "address": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
       "decimals": 24,
       "logoURI": "https://cdn.paraswap.io/token/YAMv2.png",
@@ -2387,7 +2387,7 @@
       "name": "YAM v2"
     },
     {
-      "symbol": "yUSD",
+      "symbol": "YUSD",
       "address": "0x5dbcf33d8c2e976c6b560249878e6f1491bca25c",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/yUSD.png",
@@ -2395,7 +2395,7 @@
       "name": "yUSD"
     },
     {
-      "symbol": "imBTC",
+      "symbol": "IMBTC",
       "address": "0x3212b29e33587a00fb1c83346f5dbfa69a458923",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/imBTC.png",
@@ -2403,7 +2403,7 @@
       "name": "The Tokenized Bitcoin"
     },
     {
-      "symbol": "hBTC",
+      "symbol": "HBTC",
       "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/hBTC.png",
@@ -2411,7 +2411,7 @@
       "name": "Huobi BTC"
     },
     {
-      "symbol": "wNXM",
+      "symbol": "WNXM",
       "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/wNXM.png",
@@ -2483,7 +2483,7 @@
       "name": "Trustswap"
     },
     {
-      "symbol": "mUSD",
+      "symbol": "MUSD",
       "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/mUSD.png",
@@ -2491,7 +2491,7 @@
       "name": "mStable USD"
     },
     {
-      "symbol": "mBTC",
+      "symbol": "MBTC",
       "address": "0x945facb997494cc2570096c74b5f66a3507330a1",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/mBTC.png",
@@ -2547,7 +2547,7 @@
       "name": "YAM"
     },
     {
-      "symbol": "yCurve",
+      "symbol": "YCURVE",
       "address": "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/yCurve.png",
@@ -2635,7 +2635,7 @@
       "chainId": 1
     },
     {
-      "symbol": "sBTC",
+      "symbol": "SBTC",
       "address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/sBTC.png",
@@ -2651,7 +2651,7 @@
       "name": "GridPlus [OLD]"
     },
     {
-      "symbol": "cUSDT",
+      "symbol": "CUSDT",
       "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cUSDT.png",
@@ -2659,7 +2659,7 @@
       "name": "cUSDT"
     },
     {
-      "symbol": "0xBTC",
+      "symbol": "0XBTC",
       "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/0xBTC.png",
@@ -3059,7 +3059,7 @@
       "name": "CoTrader"
     },
     {
-      "symbol": "cSAI",
+      "symbol": "CSAI",
       "address": "0xf5dce57282a584d2746faf1593d3121fcac444dc",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cSAI.png",
@@ -3067,7 +3067,7 @@
       "name": "Compound Dai"
     },
     {
-      "symbol": "cBAT",
+      "symbol": "CBAT",
       "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cBAT.png",
@@ -3075,7 +3075,7 @@
       "name": "cBAT"
     },
     {
-      "symbol": "cETH",
+      "symbol": "CETH",
       "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cETH.png",
@@ -3083,7 +3083,7 @@
       "name": "cETH"
     },
     {
-      "symbol": "cREP",
+      "symbol": "CREP",
       "address": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cREP.png",
@@ -3091,7 +3091,7 @@
       "name": "Compound Augur"
     },
     {
-      "symbol": "cWBTC",
+      "symbol": "CWBTC",
       "address": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cWBTC.png",
@@ -3099,7 +3099,7 @@
       "name": "Compound Wrapped BTC"
     },
     {
-      "symbol": "cZRX",
+      "symbol": "CZRX",
       "address": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cZRX.png",
@@ -3107,7 +3107,7 @@
       "name": "c0x"
     },
     {
-      "symbol": "iSAI",
+      "symbol": "ISAI",
       "address": "0x14094949152eddbfcd073717200da82fed8dc960",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/iSAI.png",
@@ -3115,7 +3115,7 @@
       "name": "Fulcrum SAI iToken"
     },
     {
-      "symbol": "iETH",
+      "symbol": "IETH",
       "address": "0x77f973fcaf871459aa58cd81881ce453759281bc",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/iETH.png",
@@ -3123,7 +3123,7 @@
       "name": "Fulcrum ETH iToken"
     },
     {
-      "symbol": "iUSDC",
+      "symbol": "IUSDC",
       "address": "0xf013406a0b1d544238083df0b93ad0d2cbe0f65f",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/iUSDC.png",
@@ -3131,7 +3131,7 @@
       "name": "Fulcrum USDC iToken"
     },
     {
-      "symbol": "iREP",
+      "symbol": "IREP",
       "address": "0xbd56e9477fc6997609cf45f84795efbdac642ff1",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/iREP.png",
@@ -3139,7 +3139,7 @@
       "name": "Fulcrum REP iToken"
     },
     {
-      "symbol": "iWBTC",
+      "symbol": "IWBTC",
       "address": "0xba9262578efef8b3aff7f60cd629d6cc8859c8b5",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/iWBTC.png",
@@ -3147,7 +3147,7 @@
       "name": "Fulcrum WBTC iToken"
     },
     {
-      "symbol": "iBAT",
+      "symbol": "IBAT",
       "address": "0xa8b65249de7f85494bc1fe75f525f568aa7dfa39",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/iBAT.png",
@@ -3155,7 +3155,7 @@
       "name": "bZx BAT iToken"
     },
     {
-      "symbol": "iKNC",
+      "symbol": "IKNC",
       "address": "0x1cc9567ea2eb740824a45f8026ccf8e46973234d",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/iKNC.png",
@@ -3163,7 +3163,7 @@
       "name": "Fulcrum KNC iToken"
     },
     {
-      "symbol": "iZRX",
+      "symbol": "IZRX",
       "address": "0xa7eb2bc82df18013ecc2a6c533fc29446442edee",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/iZRX.png",
@@ -3171,7 +3171,7 @@
       "name": "Fulcrum ZRX iToken"
     },
     {
-      "symbol": "iLINK",
+      "symbol": "ILINK",
       "address": "0x1d496da96caf6b518b133736beca85d5c4f9cbc5",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/iLINK.png",
@@ -3179,7 +3179,7 @@
       "name": "Fulcrum LINK iToken"
     },
     {
-      "symbol": "iDAI",
+      "symbol": "IDAI",
       "address": "0x493c57c4763932315a328269e1adad09653b9081",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/iDAI.png",
@@ -3243,7 +3243,7 @@
       "name": "Polymath"
     },
     {
-      "symbol": "cDAI",
+      "symbol": "CDAI",
       "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cDAI.png",
@@ -3299,7 +3299,7 @@
       "name": "Ether Token"
     },
     {
-      "symbol": "cUSDC",
+      "symbol": "CUSDC",
       "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/cUSDC.png",
@@ -3307,7 +3307,7 @@
       "name": "cUSDC"
     },
     {
-      "symbol": "pBTC",
+      "symbol": "PBTC",
       "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/pBTC.png",
@@ -3315,7 +3315,7 @@
       "name": "pTokens BTC [OLD]"
     },
     {
-      "symbol": "bDAI",
+      "symbol": "BDAI",
       "address": "0x6a4ffaafa8dd400676df8076ad6c724867b0e2e8",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/bDAI.png",
@@ -4355,7 +4355,7 @@
       "name": "PieDAO USD++ Pool"
     },
     {
-      "symbol": "tBTC",
+      "symbol": "TBTC",
       "address": "0x8daebade922df735c38c80c7ebd708af50815faa",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -4363,7 +4363,7 @@
       "name": "tBTC"
     },
     {
-      "symbol": "fWETH",
+      "symbol": "FWETH",
       "address": "0x8e298734681adbfc41ee5d17ff8b0d6d803e7098",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -4371,7 +4371,7 @@
       "name": "FARM_WETH"
     },
     {
-      "symbol": "fDAI",
+      "symbol": "FDAI",
       "address": "0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -4379,7 +4379,7 @@
       "name": "FARM_DAI"
     },
     {
-      "symbol": "fUSDC",
+      "symbol": "FUSDC",
       "address": "0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -4387,7 +4387,7 @@
       "name": "FARM_USDC"
     },
     {
-      "symbol": "fUSDT",
+      "symbol": "FUSDT",
       "address": "0xc7ee21406bb581e741fbb8b21f213188433d9f2f",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -4395,7 +4395,7 @@
       "name": "FARM_USDT"
     },
     {
-      "symbol": "fWBTC",
+      "symbol": "FWBTC",
       "address": "0xc07eb91961662d275e2d285bdc21885a4db136b0",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -4403,7 +4403,7 @@
       "name": "FARM_WBTC"
     },
     {
-      "symbol": "frenBTC",
+      "symbol": "FRENBTC",
       "address": "0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -4427,7 +4427,7 @@
       "name": "PieDAO DOUGH v2"
     },
     {
-      "symbol": "DEFI+s",
+      "symbol": "DEFI+S",
       "address": "0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5083,7 +5083,7 @@
       "name": "Meridian Network"
     },
     {
-      "symbol": "ANTv1",
+      "symbol": "ANTV1",
       "address": "0x960b236a07cf122663c4303350609a66a7b288c0",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5155,7 +5155,7 @@
       "name": "Ink Protocol"
     },
     {
-      "symbol": "eMTRG",
+      "symbol": "EMTRG",
       "address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5291,7 +5291,7 @@
       "name": "Huobi"
     },
     {
-      "symbol": "yDAIv2",
+      "symbol": "YDAIV2",
       "address": "0x16de59092dae5ccf4a1e6439d611fd0653f0bd01",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5299,7 +5299,7 @@
       "name": "iearn DAI"
     },
     {
-      "symbol": "yDAIv3",
+      "symbol": "YDAIV3",
       "address": "0xc2cb1040220768554cf699b0d863a3cd4324ce32",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5307,7 +5307,7 @@
       "name": "iearn DAI"
     },
     {
-      "symbol": "yBTC",
+      "symbol": "YBTC",
       "address": "0x04aa51bbcb46541455ccf1b8bef2ebc5d3787ec9",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5315,7 +5315,7 @@
       "name": "iearn wBTC"
     },
     {
-      "symbol": "yUSDTv2",
+      "symbol": "YUSDTV2",
       "address": "0x83f798e925bcd4017eb265844fddabb448f1707d",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5323,7 +5323,7 @@
       "name": "iearn USDT"
     },
     {
-      "symbol": "yUSDTv3",
+      "symbol": "YUSDTV3",
       "address": "0xe6354ed5bc4b393a5aad09f21c46e101e692d447",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5331,7 +5331,7 @@
       "name": "iearn USDT"
     },
     {
-      "symbol": "yUSDCv2",
+      "symbol": "YUSDCV2",
       "address": "0xd6ad7a6750a7593e092a9b218d66c0a814a3436e",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5339,7 +5339,7 @@
       "name": "iearn USDC"
     },
     {
-      "symbol": "yUSDCv3",
+      "symbol": "YUSDCV3",
       "address": "0x26ea744e5b887e5205727f55dfbe8685e3b21951",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5379,7 +5379,7 @@
       "name": "Proton"
     },
     {
-      "symbol": "renZEC",
+      "symbol": "RENZEC",
       "address": "0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5387,7 +5387,7 @@
       "name": "renZEC"
     },
     {
-      "symbol": "renBCH",
+      "symbol": "RENBCH",
       "address": "0x459086f2376525bdceba5bdda135e4e9d3fef5bf",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5403,7 +5403,7 @@
       "name": "Shuffle.Monster V3"
     },
     {
-      "symbol": "0xMR",
+      "symbol": "0XMR",
       "address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5571,7 +5571,7 @@
       "name": "Surf.Finance"
     },
     {
-      "symbol": "wANATHA",
+      "symbol": "WANATHA",
       "address": "0x3383c5a8969dc413bfddc9656eb80a1408e4ba20",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5635,7 +5635,7 @@
       "name": "LuaSwap"
     },
     {
-      "symbol": "YfDAI",
+      "symbol": "YFDAI",
       "address": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5643,7 +5643,7 @@
       "name": "YfDAI.finance"
     },
     {
-      "symbol": "RFuel",
+      "symbol": "RFUEL",
       "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5683,7 +5683,7 @@
       "name": "chrono.tech"
     },
     {
-      "symbol": "COVERv1",
+      "symbol": "COVERV1",
       "address": "0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5763,7 +5763,7 @@
       "name": "MahaDAO"
     },
     {
-      "symbol": "OMv2",
+      "symbol": "OMV2",
       "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5819,7 +5819,7 @@
       "name": "Fetch.ai"
     },
     {
-      "symbol": "pBTC35A",
+      "symbol": "PBTC35A",
       "address": "0xa8b12cc90abf65191532a12bb5394a714a46d358",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5907,7 +5907,7 @@
       "name": "Bird.Money"
     },
     {
-      "symbol": "SPIShopping",
+      "symbol": "SPISHOPPING",
       "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -5995,7 +5995,7 @@
       "name": "Poolz Finance"
     },
     {
-      "symbol": "arNXM",
+      "symbol": "ARNXM",
       "address": "0x1337def18c680af1f9f45cbcab6309562975b1dd",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6099,7 +6099,7 @@
       "name": "OnX Finance"
     },
     {
-      "symbol": "BiFi",
+      "symbol": "BIFI",
       "address": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6115,7 +6115,7 @@
       "name": "Stafi"
     },
     {
-      "symbol": "GNYerc20",
+      "symbol": "GNYERC20",
       "address": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6131,7 +6131,7 @@
       "name": "OIN Finance"
     },
     {
-      "symbol": "xINCHa",
+      "symbol": "XINCHA",
       "address": "0x8f6a193c8b3c949e1046f1547c3a3f0836944e4b",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6291,7 +6291,7 @@
       "name": "Radar"
     },
     {
-      "symbol": "Mars",
+      "symbol": "MARS",
       "address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6547,7 +6547,7 @@
       "name": "Offshift"
     },
     {
-      "symbol": "arte",
+      "symbol": "ARTE",
       "address": "0x34612903db071e888a4dadcaa416d3ee263a87b9",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6659,7 +6659,7 @@
       "name": "Phantasma Stake"
     },
     {
-      "symbol": "UniFi",
+      "symbol": "UNIFI",
       "address": "0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6739,7 +6739,7 @@
       "name": "Polkamarkets"
     },
     {
-      "symbol": "vBNT",
+      "symbol": "VBNT",
       "address": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6747,7 +6747,7 @@
       "name": "Bancor Governance"
     },
     {
-      "symbol": "crHEGIC",
+      "symbol": "CRHEGIC",
       "address": "0x10a3da2bb0fae4d591476fd97d6636fd172923a8",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6755,7 +6755,7 @@
       "name": "Cream Hegic"
     },
     {
-      "symbol": "crFTT",
+      "symbol": "CRFTT",
       "address": "0x10fdbd1e48ee2fd9336a482d746138ae19e649db",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6763,7 +6763,7 @@
       "name": "Cream FTX Token"
     },
     {
-      "symbol": "crRENBTC",
+      "symbol": "CRRENBTC",
       "address": "0x17107f40d70f4470d20cb3f138a052cae8ebd4be",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6771,7 +6771,7 @@
       "name": "Cream renBTC"
     },
     {
-      "symbol": "crWBTC",
+      "symbol": "CRWBTC",
       "address": "0x197070723ce0d3810a0e47f06e935c30a480d4fc",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6779,7 +6779,7 @@
       "name": "Cream Wrapped BTC"
     },
     {
-      "symbol": "crCOMP",
+      "symbol": "CRCOMP",
       "address": "0x19d1666f543d42ef17f66e376944a22aea1a8e46",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6787,7 +6787,7 @@
       "name": "Cream Compound"
     },
     {
-      "symbol": "crALPHA",
+      "symbol": "CRALPHA",
       "address": "0x1d0986fb43985c88ffa9ad959cc24e6a087c7e35",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6795,7 +6795,7 @@
       "name": "Cream AlphaToken"
     },
     {
-      "symbol": "crBUSD",
+      "symbol": "CRBUSD",
       "address": "0x1ff8cdb51219a8838b52e9cac09b71e591bc998e",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6803,7 +6803,7 @@
       "name": "Cream Binance USD"
     },
     {
-      "symbol": "crCOVER",
+      "symbol": "CRCOVER",
       "address": "0x21011bc93d9e515b9511a817a1ed1d6d468f49fc",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6811,7 +6811,7 @@
       "name": "Cream Cover Protocol Governance Token"
     },
     {
-      "symbol": "crXSUSHI",
+      "symbol": "CRXSUSHI",
       "address": "0x228619cca194fbe3ebeb2f835ec1ea5080dafbb2",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6819,7 +6819,7 @@
       "name": "Cream SushiBar"
     },
     {
-      "symbol": "crSWAG",
+      "symbol": "CRSWAG",
       "address": "0x22b243b96495c547598d9042b6f94b01c22b2e9e",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6827,7 +6827,7 @@
       "name": "Cream Swag Token"
     },
     {
-      "symbol": "crSUSD",
+      "symbol": "CRSUSD",
       "address": "0x25555933a8246ab67cbf907ce3d1949884e82b55",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6835,7 +6835,7 @@
       "name": "Cream Synth sUSD"
     },
     {
-      "symbol": "crDPI",
+      "symbol": "CRDPI",
       "address": "0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6843,7 +6843,7 @@
       "name": "Cream DefiPulse Index"
     },
     {
-      "symbol": "crAMP",
+      "symbol": "CRAMP",
       "address": "0x2db6c82ce72c8d7d770ba1b5f5ed0b6e075066d6",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6851,7 +6851,7 @@
       "name": "Cream Amp"
     },
     {
-      "symbol": "crAAVE",
+      "symbol": "CRAAVE",
       "address": "0x3225e3c669b39c7c8b3e204a8614bb218c5e31bc",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6859,7 +6859,7 @@
       "name": "Cream AAVE Token"
     },
     {
-      "symbol": "crSUSHI",
+      "symbol": "CRSUSHI",
       "address": "0x338286c0bc081891a4bda39c7667ae150bf5d206",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6867,7 +6867,7 @@
       "name": "Cream SushiToken"
     },
     {
-      "symbol": "crMTA",
+      "symbol": "CRMTA",
       "address": "0x3623387773010d9214b10c551d6e7fc375d31f58",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6875,7 +6875,7 @@
       "name": "Cream Meta"
     },
     {
-      "symbol": "crESD",
+      "symbol": "CRESD",
       "address": "0x3c6c553a95910f9fc81c98784736bd628636d296",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6883,7 +6883,7 @@
       "name": "Cream Empty Set Dollar"
     },
     {
-      "symbol": "crUSDC",
+      "symbol": "CRUSDC",
       "address": "0x44fbebd2f576670a6c33f6fc0b00aa8c5753b322",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6891,7 +6891,7 @@
       "name": "Cream USD Coin"
     },
     {
-      "symbol": "crBAC",
+      "symbol": "CRBAC",
       "address": "0x460ea730d204c822ce709f00a8e5959921715adc",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6899,7 +6899,7 @@
       "name": "Cream Basis Cash"
     },
     {
-      "symbol": "crYYCRV",
+      "symbol": "CRYYCRV",
       "address": "0x4ee15f44c6f0d8d1136c83efd2e8e4ac768954c6",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6907,7 +6907,7 @@
       "name": "Cream yyCRV"
     },
     {
-      "symbol": "crOGN",
+      "symbol": "CROGN",
       "address": "0x59089279987dd76fc65bf94cb40e186b96e03cb3",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6915,7 +6915,7 @@
       "name": "Cream OriginToken"
     },
     {
-      "symbol": "crAKRO",
+      "symbol": "CRAKRO",
       "address": "0x65883978ada0e707c3b2be2a6825b1c4bdf76a90",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6923,7 +6923,7 @@
       "name": "Cream Akropolis"
     },
     {
-      "symbol": "crLINK",
+      "symbol": "CRLINK",
       "address": "0x697256caa3ccafd62bb6d3aa1c7c5671786a5fd9",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6931,7 +6931,7 @@
       "name": "Cream ChainLink Token"
     },
     {
-      "symbol": "crUSDT",
+      "symbol": "CRUSDT",
       "address": "0x797aab1ce7c01eb727ab980762ba88e7133d2157",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6939,7 +6939,7 @@
       "name": "Cream USDT"
     },
     {
-      "symbol": "crOMG",
+      "symbol": "CROMG",
       "address": "0x7aaa323d7e398be4128c7042d197a2545f0f1fea",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6947,7 +6947,7 @@
       "name": "Cream OMGToken"
     },
     {
-      "symbol": "crBBTC",
+      "symbol": "CRBBTC",
       "address": "0x7ea9c63e216d5565c3940a2b3d150e59c2907db3",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6955,7 +6955,7 @@
       "name": "Cream Binance Wrapped BTC"
     },
     {
-      "symbol": "cr1INCH",
+      "symbol": "CR1INCH",
       "address": "0x85759961b116f1d36fd697855c57a6ae40793d9b",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6963,7 +6963,7 @@
       "name": "Cream 1INCH Token"
     },
     {
-      "symbol": "crCEL",
+      "symbol": "CRCEL",
       "address": "0x8b3ff1ed4f36c2c2be675afb13cc3aa5d73685a5",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6971,7 +6971,7 @@
       "name": "Cream Celsius"
     },
     {
-      "symbol": "crLEND",
+      "symbol": "CRLEND",
       "address": "0x8b86e0598616a8d4f1fdae8b59e55fb5bc33d0d6",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6979,7 +6979,7 @@
       "name": "Cream EthLend Token"
     },
     {
-      "symbol": "crBBADGER",
+      "symbol": "CRBBADGER",
       "address": "0x8b950f43fcac4931d408f1fcda55c6cb6cbf3096",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6987,7 +6987,7 @@
       "name": "Cream Badger Sett Badger"
     },
     {
-      "symbol": "crKP3R",
+      "symbol": "CRKP3R",
       "address": "0x903560b1cce601794c584f58898da8a8b789fc5d",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -6995,7 +6995,7 @@
       "name": "Cream Keep3rV1"
     },
     {
-      "symbol": "crDAI",
+      "symbol": "CRDAI",
       "address": "0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7003,7 +7003,7 @@
       "name": "Cream Dai Stablecoin"
     },
     {
-      "symbol": "crYCRV",
+      "symbol": "CRYCRV",
       "address": "0x9baf8a5236d44ac410c0186fe39178d5aad0bb87",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7011,7 +7011,7 @@
       "name": "Cream yCRV"
     },
     {
-      "symbol": "crFRAX",
+      "symbol": "CRFRAX",
       "address": "0xb092b4601850e23903a42eacbc9d8a0eec26a4d5",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7019,7 +7019,7 @@
       "name": "Cream Frax"
     },
     {
-      "symbol": "crSNX",
+      "symbol": "CRSNX",
       "address": "0xc25eae724f189ba9030b2556a1533e7c8a732e14",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7027,7 +7027,7 @@
       "name": "Cream Synthetix Network Token"
     },
     {
-      "symbol": "crPICKLE",
+      "symbol": "CRPICKLE",
       "address": "0xc68251421edda00a10815e273fa4b1191fac651b",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7035,7 +7035,7 @@
       "name": "Cream PickleToken"
     },
     {
-      "symbol": "crCRV",
+      "symbol": "CRCRV",
       "address": "0xc7fd8dcee4697ceef5a2fd4608a7bd6a94c77480",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7043,7 +7043,7 @@
       "name": "Cream CRV"
     },
     {
-      "symbol": "crYFI",
+      "symbol": "CRYFI",
       "address": "0xcbae0a83f4f9926997c8339545fb8ee32edc6b76",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7051,7 +7051,7 @@
       "name": "Cream YFI"
     },
     {
-      "symbol": "crBAL",
+      "symbol": "CRBAL",
       "address": "0xce4fe9b4b8ff61949dcfeb7e03bc9faca59d2eb3",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7059,7 +7059,7 @@
       "name": "Cream Balancer"
     },
     {
-      "symbol": "crETH",
+      "symbol": "CRETH",
       "address": "0xd06527d5e56a3495252a528c4987003b712860ee",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7067,7 +7067,7 @@
       "name": "Cream Ether"
     },
     {
-      "symbol": "crHUSD",
+      "symbol": "CRHUSD",
       "address": "0xd692ac3245bb82319a31068d6b8412796ee85d2c",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7075,7 +7075,7 @@
       "name": "Cream HUSD"
     },
     {
-      "symbol": "crUNI",
+      "symbol": "CRUNI",
       "address": "0xe89a6d0509faf730bd707bf868d9a2a744a363c7",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7083,7 +7083,7 @@
       "name": "Cream Uniswap"
     },
     {
-      "symbol": "crSRM",
+      "symbol": "CRSRM",
       "address": "0xef58b2d5a1b8d3cde67b8ab054dc5c831e9bc025",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7091,7 +7091,7 @@
       "name": "Cream Serum"
     },
     {
-      "symbol": "crWNXM",
+      "symbol": "CRWNXM",
       "address": "0xeff039c3c1d668f408d09dd7b63008622a77532c",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7099,7 +7099,7 @@
       "name": "Cream Wrapped NXM"
     },
     {
-      "symbol": "crTBTC",
+      "symbol": "CRTBTC",
       "address": "0xf047d4be569fb770db143a6a90ef203fc1295922",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7107,7 +7107,7 @@
       "name": "Cream tBTC"
     },
     {
-      "symbol": "crBOND",
+      "symbol": "CRBOND",
       "address": "0xf55bbe0255f7f4e70f63837ff72a577fbddbe924",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7211,7 +7211,7 @@
       "name": "NFT Index"
     },
     {
-      "symbol": "OPIUMLP34b7",
+      "symbol": "OPIUMLP34B7",
       "address": "0x5affe41805a9e57fed3657d0e64d96aea0b77885",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7259,7 +7259,7 @@
       "name": "Ruler Protocol"
     },
     {
-      "symbol": "xFUND",
+      "symbol": "XFUND",
       "address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
       "decimals": 9,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7267,7 +7267,7 @@
       "name": "xFUND"
     },
     {
-      "symbol": "bALPHA",
+      "symbol": "BALPHA",
       "address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7363,7 +7363,7 @@
       "name": "DUSK Network"
     },
     {
-      "symbol": "FTXToken",
+      "symbol": "FTXTOKEN",
       "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7555,7 +7555,7 @@
       "name": "Dora Factory"
     },
     {
-      "symbol": "erowan",
+      "symbol": "EROWAN",
       "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7643,7 +7643,7 @@
       "name": "Ara"
     },
     {
-      "symbol": "BONDfinance",
+      "symbol": "BONDFINANCE",
       "address": "0x5dc02ea99285e17656b8350722694c35154db1e8",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7651,7 +7651,7 @@
       "name": "BOND"
     },
     {
-      "symbol": "vETH",
+      "symbol": "VETH",
       "address": "0xc3d088842dcf02c13699f936bb83dfbbc6f721ab",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7675,7 +7675,7 @@
       "name": "Vortex DeFi"
     },
     {
-      "symbol": "vVSP",
+      "symbol": "VVSP",
       "address": "0xba4cfe5741b357fa371b506e5db0774abfecf8fc",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -7803,7 +7803,7 @@
       "name": "Convergence"
     },
     {
-      "symbol": "BASv2",
+      "symbol": "BASV2",
       "address": "0x106538cc16f938776c7c180186975bca23875287",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8211,7 +8211,7 @@
       "name": "Bankless DAO"
     },
     {
-      "symbol": "BTC2xFLI",
+      "symbol": "BTC2XFLI",
       "address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8331,7 +8331,7 @@
       "name": "TE-FOOD"
     },
     {
-      "symbol": "Skey",
+      "symbol": "SKEY",
       "address": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442",
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8395,7 +8395,7 @@
       "name": "Verox"
     },
     {
-      "symbol": "TRUTruebit",
+      "symbol": "TRUTRUEBIT",
       "address": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8443,7 +8443,7 @@
       "name": "BitcashPay"
     },
     {
-      "symbol": "eMax",
+      "symbol": "EMAX",
       "address": "0x15874d65e649880c2614e7a480cb7c9a55787ff6",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8515,7 +8515,7 @@
       "name": "Amun DeFi Momentum Index"
     },
     {
-      "symbol": "Auction",
+      "symbol": "AUCTION",
       "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8603,7 +8603,7 @@
       "name": "Ethereum Volatility Index Token"
     },
     {
-      "symbol": "iETHV",
+      "symbol": "IETHV",
       "address": "0x3a707d56d538e85b783e8ce12b346e7fb6511f90",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8619,7 +8619,7 @@
       "name": "Bitcoin Volatility Index Token"
     },
     {
-      "symbol": "iBTCV",
+      "symbol": "IBTCV",
       "address": "0x2590f1fd14ef8bb0a46c7a889c4cbc146510f9c3",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8643,7 +8643,7 @@
       "name": "DexTools"
     },
     {
-      "symbol": "one1INCH",
+      "symbol": "ONE1INCH",
       "address": "0x853bb55c1f469902f088a629db8c8803a9be3857",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8691,7 +8691,7 @@
       "name": "Zerogoki"
     },
     {
-      "symbol": "zUSD",
+      "symbol": "ZUSD",
       "address": "0x76417e660df3e5c90c0361674c192da152a806e4",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8923,7 +8923,7 @@
       "name": "Unvest"
     },
     {
-      "symbol": "wCFG",
+      "symbol": "WCFG",
       "address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8931,7 +8931,7 @@
       "name": "Wrapped Centrifuge"
     },
     {
-      "symbol": "wstETH",
+      "symbol": "WSTETH",
       "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -8987,7 +8987,7 @@
       "name": "Zombie Inu"
     },
     {
-      "symbol": "miniSAITAMA",
+      "symbol": "MINISAITAMA",
       "address": "0x0c3685559af6f3d20c501b1076a8056a0a14426a",
       "decimals": 9,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9067,7 +9067,7 @@
       "name": "Civilization"
     },
     {
-      "symbol": "Inu",
+      "symbol": "INU",
       "address": "0xf32aa187d5bc16a2c02a6afb7df1459d0d107574",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9115,7 +9115,7 @@
       "name": "Hokkaido Inu"
     },
     {
-      "symbol": "rETH",
+      "symbol": "RETH",
       "address": "0xae78736cd615f374d3085123a210448e74fc6393",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9339,7 +9339,7 @@
       "name": "IX Swap"
     },
     {
-      "symbol": "agEUR",
+      "symbol": "AGEUR",
       "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9395,7 +9395,7 @@
       "name": "Universe.XYZ"
     },
     {
-      "symbol": "Metis",
+      "symbol": "METIS",
       "address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9523,7 +9523,7 @@
       "name": "DigitalBits"
     },
     {
-      "symbol": "stkATOM",
+      "symbol": "STKATOM",
       "address": "0x44017598f2af1bd733f9d87b5017b4e7c1b28dde",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9635,7 +9635,7 @@
       "name": "ORE Network"
     },
     {
-      "symbol": "stkAAVE",
+      "symbol": "STKAAVE",
       "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9643,7 +9643,7 @@
       "name": "Staked Aave"
     },
     {
-      "symbol": "UniDAIETH",
+      "symbol": "UNIDAIETH",
       "address": "0x2a1530c4c41db0b0b2bb646cb5eb1a67b7158667",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9651,7 +9651,7 @@
       "name": "UniDAIETH"
     },
     {
-      "symbol": "UniUSDCETH",
+      "symbol": "UNIUSDCETH",
       "address": "0x97dec872013f6b5fb443861090ad931542878126",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9659,7 +9659,7 @@
       "name": "UniUSDCETH"
     },
     {
-      "symbol": "UnisETHETH",
+      "symbol": "UNISETHETH",
       "address": "0xe9cf7887b93150d4f2da7dfc6d502b216438f244",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9667,7 +9667,7 @@
       "name": "UnisETHETH"
     },
     {
-      "symbol": "UniLENDETH",
+      "symbol": "UNILENDETH",
       "address": "0xcaa7e4656f6a2b59f5f99c745f91ab26d1210dce",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9675,7 +9675,7 @@
       "name": "UniLENDETH"
     },
     {
-      "symbol": "UniMKRETH",
+      "symbol": "UNIMKRETH",
       "address": "0x2c4bd064b998838076fa341a83d007fc2fa50957",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9683,7 +9683,7 @@
       "name": "UniMKRETH"
     },
     {
-      "symbol": "UniLINKETH",
+      "symbol": "UNILINKETH",
       "address": "0xf173214c720f58e03e194085b1db28b50acdeead",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9691,7 +9691,7 @@
       "name": "UniLINKETH"
     },
     {
-      "symbol": "aUniETH",
+      "symbol": "AUNIETH",
       "address": "0x6179078872605396ee62960917128f9477a5ddbb",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9699,7 +9699,7 @@
       "name": "Aave Interest bearing UniETH"
     },
     {
-      "symbol": "aUniDAI",
+      "symbol": "AUNIDAI",
       "address": "0x048930eec73c91b44b0844aeacdebadc2f2b6efb",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9707,7 +9707,7 @@
       "name": "Aave Interest bearing UniDAI"
     },
     {
-      "symbol": "aUniUSDC",
+      "symbol": "AUNIUSDC",
       "address": "0xe02b2ad63eff3ac1d5827cbd7ab9dd3dac4f4ad0",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9715,7 +9715,7 @@
       "name": "Aave Interest bearing UniUSDC"
     },
     {
-      "symbol": "aUniUSDT",
+      "symbol": "AUNIUSDT",
       "address": "0xb977ee318010a5252774171494a1bcb98e7fab65",
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9723,7 +9723,7 @@
       "name": "Aave Interest bearing UniUSDT"
     },
     {
-      "symbol": "aUniDAIETH",
+      "symbol": "AUNIDAIETH",
       "address": "0xbbbb7f2ac04484f7f04a2c2c16f20479791bbb44",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9731,7 +9731,7 @@
       "name": "Aave Interest bearing UniDAIETH"
     },
     {
-      "symbol": "aUniUSDCETH",
+      "symbol": "AUNIUSDCETH",
       "address": "0x1d0e53a0e524e3cc92c1f0f33ae268fff8d7e7a5",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9739,7 +9739,7 @@
       "name": "Aave Interest bearing UniUSDCETH"
     },
     {
-      "symbol": "aUniSETHETH",
+      "symbol": "AUNISETHETH",
       "address": "0x84bbcab430717ff832c3904fa6515f97fc63c76f",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9747,7 +9747,7 @@
       "name": "Aave Interest bearing UniSETHETH"
     },
     {
-      "symbol": "aUniLENDETH",
+      "symbol": "AUNILENDETH",
       "address": "0xc88ebbf7c523f38ef3eb8a151273c0f0da421e63",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9755,7 +9755,7 @@
       "name": "Aave Interest bearing UniLENDETH"
     },
     {
-      "symbol": "aUniMKRETH",
+      "symbol": "AUNIMKRETH",
       "address": "0x8c69f7a4c9b38f1b48005d216c398efb2f1ce3e4",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9763,7 +9763,7 @@
       "name": "Aave Interest bearing UniMKRETH"
     },
     {
-      "symbol": "aUniLINKETH",
+      "symbol": "AUNILINKETH",
       "address": "0x9548db8b1ca9b6c757485e7861918b640390169c",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9835,7 +9835,7 @@
       "name": "Blockchain Terminal Token"
     },
     {
-      "symbol": "Bez",
+      "symbol": "BEZ",
       "address": "0x8a1e3930fde1f151471c368fdbb39f3f63a65b55",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -9891,7 +9891,7 @@
       "name": "BitClave"
     },
     {
-      "symbol": "Centra",
+      "symbol": "CENTRA",
       "address": "0x96a65609a7b84e8842732deb08f56c3e21ac6f8a",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10083,7 +10083,7 @@
       "name": "Shivers"
     },
     {
-      "symbol": "sXRP",
+      "symbol": "SXRP",
       "address": "0xa2b0fde6d710e201d0d608e924a484d1a5fed57c",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10099,7 +10099,7 @@
       "name": "Titanium BAR"
     },
     {
-      "symbol": "TheDAO",
+      "symbol": "THEDAO",
       "address": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
       "decimals": 16,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10195,7 +10195,7 @@
       "name": "Datamine"
     },
     {
-      "symbol": "iETH",
+      "symbol": "IETH",
       "address": "0xa9859874e1743a32409f75bb11549892138bba1e",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10219,7 +10219,7 @@
       "name": "yAxis"
     },
     {
-      "symbol": "wLOKI",
+      "symbol": "WLOKI",
       "address": "0x5ff668ddfdcbb7505f41ed56e626e4d4719dcb26",
       "decimals": 9,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10259,7 +10259,7 @@
       "name": "Aurora DAO"
     },
     {
-      "symbol": "sEOS",
+      "symbol": "SEOS",
       "address": "0x88c8cf3a212c0369698d13fe98fcb76620389841",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10267,7 +10267,7 @@
       "name": "Synth sEOS"
     },
     {
-      "symbol": "rDAI",
+      "symbol": "RDAI",
       "address": "0x261b45d85ccfeabb11f022eba346ee8d1cd488c0",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10275,7 +10275,7 @@
       "name": "Redeemable DAI"
     },
     {
-      "symbol": "iADA",
+      "symbol": "IADA",
       "address": "0x8a8079c7149b8a1611e5c5d978dca3be16545f83",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10283,7 +10283,7 @@
       "name": "Synth iADA"
     },
     {
-      "symbol": "iXMR",
+      "symbol": "IXMR",
       "address": "0x4adf728e2df4945082cdd6053869f51278fae196",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10291,7 +10291,7 @@
       "name": "Synth iXMR"
     },
     {
-      "symbol": "iBCH",
+      "symbol": "IBCH",
       "address": "0xf6e9b246319ea30e8c2fa2d1540aaebf6f9e1b89",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10299,7 +10299,7 @@
       "name": "Synth iBCH"
     },
     {
-      "symbol": "iEOS",
+      "symbol": "IEOS",
       "address": "0xf4eebdd0704021ef2a6bbe993fdf93030cd784b4",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10323,7 +10323,7 @@
       "name": "Volts.Finance"
     },
     {
-      "symbol": "sUSD",
+      "symbol": "SUSD",
       "address": "0x57ab1e02fee23774580c119740129eac7081e9d3",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -10347,7 +10347,7 @@
       "name": "USDQ Stablecoin by Q DAO v1.0"
     },
     {
-      "symbol": "xEUR",
+      "symbol": "XEUR",
       "address": "0xe577e0b200d00ebdecbfc1cd3f7e8e04c70476be",
       "decimals": 0,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
@@ -41680,7 +41680,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Wrapped aUSDC",
-      "symbol": "aUSDC"
+      "symbol": "AUSDC"
     },
     {
       "address": "0x82698aecc9e28e9bb27608bd52cf57f704bd1b83",
@@ -41688,7 +41688,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer Boosted Aave USDC",
-      "symbol": "bb-a-usdc"
+      "symbol": "BB-A-USDC"
     },
     {
       "address": "0x80dc468671316e50d4e9023d3db38d3105c1c146",
@@ -41696,7 +41696,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "xAAVE",
-      "symbol": "xAAVEa"
+      "symbol": "XAAVEA"
     },
     {
       "address": "0x704de5696df237c5b9ba0de9ba7e0c63da8ea0df",
@@ -41704,7 +41704,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "xAAVE",
-      "symbol": "xAAVEb"
+      "symbol": "XAAVEB"
     },
     {
       "address": "0x5c406d99e04b8494dc253fcc52943ef82bca7d75",
@@ -41712,7 +41712,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "cUSD Currency",
-      "symbol": "cUSD"
+      "symbol": "CUSD"
     },
     {
       "address": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d",
@@ -41720,7 +41720,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Aura BAL",
-      "symbol": "aurabal"
+      "symbol": "AURABAL"
     },
     {
       "address": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
@@ -41728,7 +41728,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer 80 BAL 20 WETH",
-      "symbol": "b-80bal-20weth"
+      "symbol": "B-80BAL-20WETH"
     },
     {
       "address": "0x9847ecefb586c6706775d5cb6fc73b0552c5b278",
@@ -41752,7 +41752,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Rebase Pulsechain Token",
-      "symbol": "rePLS"
+      "symbol": "REPLS"
     },
     {
       "address": "0xd0352a019e9ab9d757776f532377aaebd36fd541",
@@ -41768,7 +41768,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "ECOx",
-      "symbol": "ecox"
+      "symbol": "ECOX"
     },
     {
       "address": "0xf8fd466f12e236f4c96f7cce6c79eadb819abf58",
@@ -41776,7 +41776,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Wrapped aUSDT",
-      "symbol": "aUSDT"
+      "symbol": "AUSDT"
     },
     {
       "address": "0x2f4eb100552ef93840d5adc30560e5513dfffacb",
@@ -41784,7 +41784,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer Boosted Aave USDT",
-      "symbol": "bb-a-usdt"
+      "symbol": "BB-A-USDT"
     },
     {
       "address": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
@@ -41800,7 +41800,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "GOD KIMCHI",
-      "symbol": "gKIMCHI"
+      "symbol": "GKIMCHI"
     },
     {
       "address": "0xd964bf5f85c024815089148031137ae6d269b08b",
@@ -41840,7 +41840,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve (iearn fork) DAI",
-      "symbol": "ycDAI"
+      "symbol": "YCDAI"
     },
     {
       "address": "0x9777d7e2b60bb01759d0e2f8be2095df444cb07e",
@@ -41848,7 +41848,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve (iearn fork) USDC",
-      "symbol": "ycUSDC"
+      "symbol": "YCUSDC"
     },
     {
       "address": "0x1be5d71f2da660bfdee8012ddc58d024448a0a59",
@@ -41856,7 +41856,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve (iearn fork) USDT",
-      "symbol": "ycUSDT"
+      "symbol": "YCUSDT"
     },
     {
       "address": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003",
@@ -41864,7 +41864,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Mythos",
-      "symbol": "myth"
+      "symbol": "MYTH"
     },
     {
       "address": "0x97bbbc5d96875fb78d2f14b7ff8d7a3a74106f17",
@@ -41872,7 +41872,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Astrafer",
-      "symbol": "astrafer"
+      "symbol": "ASTRAFER"
     },
     {
       "address": "0xc55126051b22ebb829d00368f4b12bde432de5da",
@@ -41880,7 +41880,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Redacted",
-      "symbol": "btrfly"
+      "symbol": "BTRFLY"
     },
     {
       "address": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8",
@@ -41888,7 +41888,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "XEN Crypto",
-      "symbol": "xen"
+      "symbol": "XEN"
     },
     {
       "address": "0x427a03fb96d9a94a6727fbcfbba143444090dd64",
@@ -41912,7 +41912,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Art Gobblers Goo",
-      "symbol": "goo"
+      "symbol": "GOO"
     },
     {
       "address": "0x00c2999c8b2adf4abc835cc63209533973718eb1",
@@ -41920,7 +41920,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "New World Order",
-      "symbol": "state"
+      "symbol": "STATE"
     },
     {
       "address": "0x3b87ed3d6ebd764f5723ed106dcc3ef3ed69dbce",
@@ -41936,7 +41936,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Wrapped aDAI",
-      "symbol": "aDAI"
+      "symbol": "ADAI"
     },
     {
       "address": "0xae37d54ae477268b9997d4161b96b8200755935c",
@@ -41944,7 +41944,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer Boosted Aave DAI",
-      "symbol": "bb-a-dai"
+      "symbol": "BB-A-DAI"
     },
     {
       "address": "0xae4f56f072c34c0a65b3ae3e4db797d831439d93",
@@ -41960,7 +41960,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Terra Classic (Wormhole)",
-      "symbol": "lunc"
+      "symbol": "LUNC"
     },
     {
       "address": "0x5df2c8927f67e236c0b9e5fb2862916894fb78ad",
@@ -41984,7 +41984,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Avalanche (Wormhole)",
-      "symbol": "avax"
+      "symbol": "AVAX"
     },
     {
       "address": "0x6e87921e2ed8f8fe2469ef66ef4ce176282d8977",
@@ -41992,7 +41992,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Lambo",
-      "symbol": "Lambo"
+      "symbol": "LAMBO"
     },
     {
       "address": "0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d",
@@ -42000,7 +42000,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Synth sCHF",
-      "symbol": "sCHF"
+      "symbol": "SCHF"
     },
     {
       "address": "0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d",
@@ -42008,7 +42008,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Synth sJPY",
-      "symbol": "sJPY"
+      "symbol": "SJPY"
     },
     {
       "address": "0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f",
@@ -42016,7 +42016,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Synth sGBP",
-      "symbol": "sGBP"
+      "symbol": "SGBP"
     },
     {
       "address": "0x269895a3df4d73b077fc823dd6da1b95f72aaf9b",
@@ -42024,7 +42024,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Synth sKRW",
-      "symbol": "sKRW"
+      "symbol": "SKRW"
     },
     {
       "address": "0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b",
@@ -42040,7 +42040,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Synth sTSLA",
-      "symbol": "sTSLA"
+      "symbol": "STSLA"
     },
     {
       "address": "0x41e38882257d0a318c8fb5f1c4e4f50a0b85f56e",
@@ -42056,7 +42056,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve.fi USD-BTC-ETH",
-      "symbol": "crv3crypto"
+      "symbol": "CRV3CRYPTO"
     },
     {
       "address": "0x26c70a14ce6bf73ce9dc193dbb03b62fabe1f775",
@@ -42064,7 +42064,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Euler Pool: Milady Maker",
-      "symbol": "eMILADY"
+      "symbol": "EMILADY"
     },
     {
       "address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada",
@@ -42096,7 +42096,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Chronoly",
-      "symbol": "crno"
+      "symbol": "CRNO"
     },
     {
       "address": "0x3be7bf1a5f23bd8336787d0289b70602f1940875",
@@ -42104,7 +42104,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "VIDT DAO",
-      "symbol": "vidt"
+      "symbol": "VIDT"
     },
     {
       "address": "0xfeef77d3f69374f66429c91d732a244f074bdf74",
@@ -42112,7 +42112,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Convex FXS",
-      "symbol": "cvxFXS"
+      "symbol": "CVXFXS"
     },
     {
       "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
@@ -42160,7 +42160,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve.fi SDTETH-f Gauge Deposit",
-      "symbol": "SDTETH-f-gauge"
+      "symbol": "SDTETH-F-GAUGE"
     },
     {
       "address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
@@ -42168,7 +42168,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Dejitaru Tsuka",
-      "symbol": "tsuka"
+      "symbol": "TSUKA"
     },
     {
       "address": "0x4ca4e12fd8e37e30ed3a37bccf61ba8edf85012c",
@@ -42176,7 +42176,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "StakeDAO ETH Hedge Strategy",
-      "symbol": "sdETHHedge"
+      "symbol": "SDETHHEDGE"
     },
     {
       "address": "0xdbb094bbf86ba42315704d7b38f51918cef0c386",
@@ -42192,7 +42192,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Bancor GTC Pool Token",
-      "symbol": "bnGTC"
+      "symbol": "BNGTC"
     },
     {
       "address": "0x70605a6457b0a8fbf1eee896911895296eab467e",
@@ -42200,7 +42200,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "IchiStake",
-      "symbol": "xICHI"
+      "symbol": "XICHI"
     },
     {
       "address": "0xa09c0e98a252965a2b6bf2994e2d2c020af0f89a",
@@ -42264,7 +42264,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "ASIC Token",
-      "symbol": "asic"
+      "symbol": "ASIC"
     },
     {
       "address": "0xfc4913214444af5c715cc9f7b52655e788a569ed",
@@ -42272,7 +42272,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Icosa",
-      "symbol": "icsa"
+      "symbol": "ICSA"
     },
     {
       "address": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861",
@@ -42280,7 +42280,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "The Protocol",
-      "symbol": "the"
+      "symbol": "THE"
     },
     {
       "address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
@@ -42288,7 +42288,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Shita-kiri Suzume",
-      "symbol": "suzume"
+      "symbol": "SUZUME"
     },
     {
       "address": "0x02cc363abfb2bb4a9036b175ae0687620547cf42",
@@ -42360,7 +42360,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Maximus TEAM",
-      "symbol": "team"
+      "symbol": "TEAM"
     },
     {
       "address": "0x19075005eed66441f0111238e5477b81221996de",
@@ -42392,7 +42392,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "GameStop Metaverse",
-      "symbol": "GameStop"
+      "symbol": "GAMESTOP"
     },
     {
       "address": "0x060665077856c471873f9a329175fb655a361883",
@@ -42400,7 +42400,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Valve Software",
-      "symbol": "Valve Software"
+      "symbol": "VALVE SOFTWARE"
     },
     {
       "address": "0x51fa2efd62ee56a493f24ae963eace7d0051929e",
@@ -42408,7 +42408,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Poseidon OCEAN",
-      "symbol": "psdnocean"
+      "symbol": "PSDNOCEAN"
     },
     {
       "address": "0xa81798fec662c1a131029b28546cc80ecd11cb61",
@@ -42424,7 +42424,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "xLeash Staked Leash",
-      "symbol": "xLEASH"
+      "symbol": "XLEASH"
     },
     {
       "address": "0x708b6dafefe5ff399558002f2e7dfdd52eaca6aa",
@@ -42480,7 +42480,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve.fi bLUSDLUSD3-f Gauge Deposit",
-      "symbol": "bLUSDLUSD3-f-gauge"
+      "symbol": "BLUSDLUSD3-F-GAUGE"
     },
     {
       "address": "0xed196d746493bc855f95ce5346c0161f68db874b",
@@ -42504,7 +42504,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Badger Vested Escrow Convex Token",
-      "symbol": "bveCVX"
+      "symbol": "BVECVX"
     },
     {
       "address": "0xdb55b77f5e8a1a41931684cf9e4881d24e6b6cc9",
@@ -42512,7 +42512,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Fuse-6 USDC",
-      "symbol": "f6-USDC"
+      "symbol": "F6-USDC"
     },
     {
       "address": "0xdc4ee1b6a178e7514befd262117a593655ef794c",
@@ -42520,7 +42520,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Silo Finance Borrowable WETH Deposit in CVX Silo",
-      "symbol": "sWETH-CVX"
+      "symbol": "SWETH-CVX"
     },
     {
       "address": "0xc1330acbbce97cb9695b7ee161c0f95b875a8b0f",
@@ -42528,7 +42528,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "OnX Ethereum Stablecoin",
-      "symbol": "onETH"
+      "symbol": "ONETH"
     },
     {
       "address": "0xea18370f4568c1b7cb59246bb94c5bf0d5015cf5",
@@ -42552,7 +42552,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Cramer Coin",
-      "symbol": "cramer"
+      "symbol": "CRAMER"
     },
     {
       "address": "0x4dd942baa75810a3c1e876e79d5cd35e09c97a76",
@@ -42568,7 +42568,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Die Protocol",
-      "symbol": "die"
+      "symbol": "DIE"
     },
     {
       "address": "0xbea16e7ad33a4e98092cf5335f1dc45a74f5102b",
@@ -42600,7 +42600,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "TUSD yVault",
-      "symbol": "yvTUSD"
+      "symbol": "YVTUSD"
     },
     {
       "address": "0xed1840223484483c0cb050e6fc344d1ebf0778a9",
@@ -42608,7 +42608,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Bend interest bearing WETH",
-      "symbol": "bendWETH"
+      "symbol": "BENDWETH"
     },
     {
       "address": "0x281f5b914b0d589f8193cd5e711c6920874e00c8",
@@ -42656,7 +42656,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "IdleCDO AA Tranche - idle_cpWIN-USDC",
-      "symbol": "AA_idle_cpWIN-USDC"
+      "symbol": "AA_IDLE_CPWIN-USDC"
     },
     {
       "address": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
@@ -42664,7 +42664,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Tamadoge",
-      "symbol": "tama"
+      "symbol": "TAMA"
     },
     {
       "address": "0x94c9ceb2f9741230fad3a62781b27cc79a9460d4",
@@ -42704,7 +42704,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Stake DAO sdAGAG-f Gauge",
-      "symbol": "sdsdAGAG-f-gauge"
+      "symbol": "SDSDAGAG-F-GAUGE"
     },
     {
       "address": "0x566957ef80f9fd5526cd2bef8be67035c0b81130",
@@ -42712,7 +42712,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "USD Coin (PoS) (Wormhole)",
-      "symbol": "usdcpo"
+      "symbol": "USDCPO"
     },
     {
       "address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
@@ -42720,7 +42720,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Alchemix ETH",
-      "symbol": "aleth"
+      "symbol": "ALETH"
     },
     {
       "address": "0x6ff952aef0c0f7c7e20cc396b798daddf6561f18",
@@ -42752,7 +42752,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "SushiswapV2 IL Protection",
-      "symbol": "sil"
+      "symbol": "SIL"
     },
     {
       "address": "0xa1e72267084192db7387c8cc1328fade470e4149",
@@ -42760,7 +42760,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Legacy TrueFi TrueUSD",
-      "symbol": "Legacy tfTUSD"
+      "symbol": "LEGACY TFTUSD"
     },
     {
       "address": "0xf0bea7077e2c65ef8ba089edce949781af6277a6",
@@ -42768,7 +42768,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "StableCredit",
-      "symbol": "scUSD"
+      "symbol": "SCUSD"
     },
     {
       "address": "0x2ba7aa2213fa2c909cd9e46fed5a0059542b36b0",
@@ -42776,7 +42776,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "TUSD bb-a-usd Stable Pool",
-      "symbol": "TUSD-bbausd"
+      "symbol": "TUSD-BBAUSD"
     },
     {
       "address": "0xa13a9247ea42d743238089903570127dda72fe44",
@@ -42784,7 +42784,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer Boosted Aave USD",
-      "symbol": "bb-a-usd"
+      "symbol": "BB-A-USD"
     },
     {
       "address": "0x4910661be7d09d442df1a6db4d8ab350d97d1062",
@@ -42856,7 +42856,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Maximus DECI",
-      "symbol": "deci"
+      "symbol": "DECI"
     },
     {
       "address": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0",
@@ -42864,7 +42864,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Maximus BASE",
-      "symbol": "base"
+      "symbol": "BASE"
     },
     {
       "address": "0x9bb6fd000109e24eb38b0deb806382ff9247e478",
@@ -42880,7 +42880,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "PoorPleb",
-      "symbol": "pp"
+      "symbol": "PP"
     },
     {
       "address": "0x514d27336b4f80419e20d2a772d14efede22f245",
@@ -42888,7 +42888,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "dogfood",
-      "symbol": "DoFo"
+      "symbol": "DOFO"
     },
     {
       "address": "0x40a7b518ea0dfb512e1d99e30d2a58f3c62b22b2",
@@ -42912,7 +42912,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "carbon chain",
-      "symbol": "carbon"
+      "symbol": "CARBON"
     },
     {
       "address": "0xe8bbae53ad91a97ef1fd9846b2d931ab761b643e",
@@ -42944,7 +42944,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "BarnBridge WETH-USD-1w KPI Option",
-      "symbol": "KPI_WETH-USD-1w"
+      "symbol": "KPI_WETH-USD-1W"
     },
     {
       "address": "0x104f3152d8ebfc3f679392977356962ff36566ac",
@@ -42952,7 +42952,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "ChainPort",
-      "symbol": "portx"
+      "symbol": "PORTX"
     },
     {
       "address": "0x095797fd4297fb79883cc912a5ba6313b15c445d",
@@ -42960,7 +42960,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "GOLCOIN",
-      "symbol": "golc"
+      "symbol": "GOLC"
     },
     {
       "address": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4",
@@ -42984,7 +42984,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Keep3rLP - KP3R/WETH",
-      "symbol": "kLP-KP3R/WETH"
+      "symbol": "KLP-KP3R/WETH"
     },
     {
       "address": "0x5dca04b576bc84d03e223509150493461f38df8c",
@@ -42992,7 +42992,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Firefox Metaverse",
-      "symbol": "Firefox"
+      "symbol": "FIREFOX"
     },
     {
       "address": "0x8aedb297fed4b6884b808ee61faf0837713670d0",
@@ -43016,7 +43016,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "WAIT",
-      "symbol": "wait"
+      "symbol": "WAIT"
     },
     {
       "address": "0x90f36d7bfba633f17eccc62ec31c58a9a3c04c2a",
@@ -43024,7 +43024,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "PulseFloki",
-      "symbol": "plsf"
+      "symbol": "PLSF"
     },
     {
       "address": "0x83e556baea9b5fa5f131bc89a4c7282ca240b156",
@@ -43032,7 +43032,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Fuse Pool 8 LUSD ERC4626 Vault",
-      "symbol": "4626-fLUSD-8"
+      "symbol": "4626-FLUSD-8"
     },
     {
       "address": "0xb0f75e97a114a4eb4a425edc48990e6760726709",
@@ -43040,7 +43040,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer Fuse-8 Boosted LUSD",
-      "symbol": "bb-f-LUSD"
+      "symbol": "BB-F-LUSD"
     },
     {
       "address": "0xa31fdbaa772745d11843efeda9922dcbf5460672",
@@ -43056,7 +43056,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "bl",
-      "symbol": "bl"
+      "symbol": "BL"
     },
     {
       "address": "0x2f424db3c250b8b2703517560ab4f0158c1a9f53",
@@ -43072,7 +43072,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Dogechain",
-      "symbol": "dc"
+      "symbol": "DC"
     },
     {
       "address": "0x9d93692e826a4bd9e903e2a27d7fbd1e116efdad",
@@ -43112,7 +43112,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Staked Spell Tokens",
-      "symbol": "sSPELL"
+      "symbol": "SSPELL"
     },
     {
       "address": "0xba7970f10d9f0531941dced1dda7ef3016b24e5b",
@@ -43152,7 +43152,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Seal Finance",
-      "symbol": "Seal"
+      "symbol": "SEAL"
     },
     {
       "address": "0xf83ae621a52737e3ef9307af91df834ed8431ac3",
@@ -43160,7 +43160,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "uvwFi.finance",
-      "symbol": "uvwFi"
+      "symbol": "UVWFI"
     },
     {
       "address": "0x27007106c24b8b687d24b0221c5ac4401d3389d9",
@@ -43176,7 +43176,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Sakura Metaverse",
-      "symbol": "Sakura"
+      "symbol": "SAKURA"
     },
     {
       "address": "0x81eb1e0acfd705c34e975397de7545b6a9f0be39",
@@ -43240,7 +43240,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Crab Strategy v2",
-      "symbol": "Crabv2"
+      "symbol": "CRABV2"
     },
     {
       "address": "0x63555a2a63acda1e4617d7e75baee0c5d51c2686",
@@ -43272,7 +43272,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Escrowed Illuvium 2",
-      "symbol": "sILV2"
+      "symbol": "SILV2"
     },
     {
       "address": "0x04a6b6de116fb8bf57e5ee8b05e0293ea3639fe8",
@@ -43280,7 +43280,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Proof Of Memes",
-      "symbol": "eth2.0"
+      "symbol": "ETH2.0"
     },
     {
       "address": "0x5e9f7e92e742f73b990dca63c88325ed24666e84",
@@ -43304,7 +43304,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Shiwa",
-      "symbol": "shiwa"
+      "symbol": "SHIWA"
     },
     {
       "address": "0x69a74a6b50ad6a11ad838ce3c520b92922db07ae",
@@ -43328,7 +43328,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Michelin Metaverse",
-      "symbol": "Michelin"
+      "symbol": "MICHELIN"
     },
     {
       "address": "0x13aa5c2a696a2803bd2879df3942250a9d616e31",
@@ -43368,7 +43368,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Tamashiba",
-      "symbol": "Tamashiba"
+      "symbol": "TAMASHIBA"
     },
     {
       "address": "0x5e807b04e5839823295b1f76d435476d4663ed99",
@@ -43384,7 +43384,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Flashstake",
-      "symbol": "flash"
+      "symbol": "FLASH"
     },
     {
       "address": "0x2dfb14e32e2f8156ec15a2c21c3a6c053af52be8",
@@ -43392,7 +43392,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve MIM Pool yVault",
-      "symbol": "yvCurve-MIM"
+      "symbol": "YVCURVE-MIM"
     },
     {
       "address": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
@@ -43440,7 +43440,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Defactor",
-      "symbol": "factr"
+      "symbol": "FACTR"
     },
     {
       "address": "0x2688fc68c4eac90d9e5e1b94776cf14eade8d877",
@@ -43448,7 +43448,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "IdleCDO AA Tranche - wstETH",
-      "symbol": "AA_wstETH"
+      "symbol": "AA_WSTETH"
     },
     {
       "address": "0x82ecdd4635766560c4e3a8efa8a7c1fff566111e",
@@ -43480,7 +43480,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer graviAURA Stable Pool",
-      "symbol": "B-graviAURA-STABLE"
+      "symbol": "B-GRAVIAURA-STABLE"
     },
     {
       "address": "0x614a0c75b1574748634dea378a7044f614b6fd9d",
@@ -43496,7 +43496,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "USDC-WETH SLP Ease Vault",
-      "symbol": "ez-SLP-USDC-WETH"
+      "symbol": "EZ-SLP-USDC-WETH"
     },
     {
       "address": "0x8f44cd7a644888ca22de025a2d15360728a588f9",
@@ -43536,7 +43536,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "IdleCDO BB Tranche - stMATIC",
-      "symbol": "BB_stMATIC"
+      "symbol": "BB_STMATIC"
     },
     {
       "address": "0xe753260f1955e8678dcea8887759e07aa57e8c54",
@@ -43544,7 +43544,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "diesel Wrapped BTC",
-      "symbol": "dWBTC"
+      "symbol": "DWBTC"
     },
     {
       "address": "0x7d647b1a0dcd5525e9c6b3d14be58f27674f8c95",
@@ -43576,7 +43576,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve.fi FRAX/USDC",
-      "symbol": "crvfrax"
+      "symbol": "CRVFRAX"
     },
     {
       "address": "0xbce0cf87f513102f22232436cca2ca49e815c3ac",
@@ -43584,7 +43584,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Pirex CVX",
-      "symbol": "pxCVX"
+      "symbol": "PXCVX"
     },
     {
       "address": "0x893da8a02b487fef2f7e3f35df49d7625ae549a3",
@@ -43592,7 +43592,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve.fi Factory Crypto Pool: SDT / FRAXBP",
-      "symbol": "sdtfraxbp-f"
+      "symbol": "SDTFRAXBP-F"
     },
     {
       "address": "0x517ab044bda9629e785657dbbcae95c40c8f452c",
@@ -43616,7 +43616,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "MAI",
-      "symbol": "mimatic"
+      "symbol": "MIMATIC"
     },
     {
       "address": "0x2cd9324ba13b77554592d453e6364086fbba446a",
@@ -43640,7 +43640,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Wrapped Mirror NFLX Token",
-      "symbol": "mNFLX"
+      "symbol": "MNFLX"
     },
     {
       "address": "0xce9afaf5b0da6ce0366ab40435a48ccff65d2ed7",
@@ -43672,7 +43672,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "DeFi Forge",
-      "symbol": "forge"
+      "symbol": "FORGE"
     },
     {
       "address": "0x535820792e0e510f074d3ec91fef0f67580719ba",
@@ -43680,7 +43680,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Sony Metaverse",
-      "symbol": "Sony"
+      "symbol": "SONY"
     },
     {
       "address": "0x270f9123a1dd3a2ff458b2b8aa4361c1c977ac61",
@@ -43688,7 +43688,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Sony Metaverse",
-      "symbol": "Sony"
+      "symbol": "SONY"
     },
     {
       "address": "0x9d1188679c8f0f6c2c7f461c6a1f196ca259de5e",
@@ -43696,7 +43696,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "posercoin",
-      "symbol": "posc"
+      "symbol": "POSC"
     },
     {
       "address": "0xa760e26aa76747020171fcf8bda108dfde8eb930",
@@ -43704,7 +43704,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "TokemakTokePool",
-      "symbol": "tToke"
+      "symbol": "TTOKE"
     },
     {
       "address": "0xe3c408bd53c31c085a1746af401a4042954ff740",
@@ -43712,7 +43712,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "STEPN",
-      "symbol": "gmt"
+      "symbol": "GMT"
     },
     {
       "address": "0x8dbd43048e60e3c9a602de7f5f1f1c8a9c6ffee1",
@@ -43736,7 +43736,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "BuyMORE",
-      "symbol": "more"
+      "symbol": "MORE"
     },
     {
       "address": "0x2de509bf0014ddf697b220be628213034d320ece",
@@ -43744,7 +43744,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Don't Buy Inu",
-      "symbol": "dbi"
+      "symbol": "DBI"
     },
     {
       "address": "0x950cc7d88fd59f68bc5e85f1cda5f7c547a1d712",
@@ -43752,7 +43752,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Silo Finance Borrowable WETH Deposit in FXS Silo",
-      "symbol": "sWETH-FXS"
+      "symbol": "SWETH-FXS"
     },
     {
       "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
@@ -43808,7 +43808,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Bluejay",
-      "symbol": "blu"
+      "symbol": "BLU"
     },
     {
       "address": "0x8916187112fd6e3624a80c42fa354cd9756e695f",
@@ -43816,7 +43816,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Shibird",
-      "symbol": "shird"
+      "symbol": "SHIRD"
     },
     {
       "address": "0x6a113e4caa8aa29c02e535580027a1a3203f43fb",
@@ -43824,7 +43824,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "ETH Mini",
-      "symbol": "mETH"
+      "symbol": "METH"
     },
     {
       "address": "0x2a936ad0b770bf27a59d4f15eb15f847e5fa6fd7",
@@ -43840,7 +43840,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "xPUNK",
-      "symbol": "xPUNK"
+      "symbol": "XPUNK"
     },
     {
       "address": "0x75dfdf1a6d0368f96136d806b37597cd93201db9",
@@ -43872,7 +43872,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "The Promised Neverland",
-      "symbol": "$Emma"
+      "symbol": "$EMMA"
     },
     {
       "address": "0xc2084aaf8db8ebf553f3aafa8c94b8d4ac2afe6e",
@@ -43880,7 +43880,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Porsche Metaverse",
-      "symbol": "Porsche"
+      "symbol": "PORSCHE"
     },
     {
       "address": "0x0d2a2df39436b5c5f986552869124ba29b7df1ac",
@@ -43912,7 +43912,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer 20WETH-80FDT Gauge Deposit",
-      "symbol": "20WETH-80FDT-gauge"
+      "symbol": "20WETH-80FDT-GAUGE"
     },
     {
       "address": "0x5c9bf3a11510f9996158db23bc2c85ca9b388ebb",
@@ -43944,7 +43944,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve sUSD Pool yVault",
-      "symbol": "yvCurve-sUSD"
+      "symbol": "YVCURVE-SUSD"
     },
     {
       "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
@@ -43952,7 +43952,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Coinbase Wrapped Staked ETH",
-      "symbol": "cbeth"
+      "symbol": "CBETH"
     },
     {
       "address": "0x8e85e97ed19c0fa13b2549309965291fbbc0048b",
@@ -43960,7 +43960,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "sfrxETH-stETH-rETH StablePool",
-      "symbol": "sfrxETH-stETH-rETH-BPT"
+      "symbol": "SFRXETH-STETH-RETH-BPT"
     },
     {
       "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
@@ -43968,7 +43968,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Staked Frax Ether",
-      "symbol": "sfrxETH"
+      "symbol": "SFRXETH"
     },
     {
       "address": "0x5a0124b5f8af341d9c1f0faab194b438c8d27468",
@@ -43984,7 +43984,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Antminer S15",
-      "symbol": "Zs15"
+      "symbol": "ZS15"
     },
     {
       "address": "0x9b75e2e87f10c883690d8c36bdaf3d7b1c38ec3b",
@@ -44000,7 +44000,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "vAPE",
-      "symbol": "vAPE"
+      "symbol": "VAPE"
     },
     {
       "address": "0x32296969ef14eb0c6d29669c550d4a0449130230",
@@ -44008,7 +44008,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Balancer stETH Stable Pool",
-      "symbol": "B-stETH-STABLE"
+      "symbol": "B-STETH-STABLE"
     },
     {
       "address": "0x68c269b60c58c4ed50c63b217ba0ec7f8a371920",
@@ -44024,7 +44024,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Penguin Finance",
-      "symbol": "Penguin"
+      "symbol": "PENGUIN"
     },
     {
       "address": "0xaa62a002ce856d9fe1874e7f8558a38fc1e49cca",
@@ -44048,7 +44048,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Linkkey DAO",
-      "symbol": "Linkkey"
+      "symbol": "LINKKEY"
     },
     {
       "address": "0x4126069f453f1b4a12d6673c542bac349252b158",
@@ -44056,7 +44056,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "TikTok Metaverse",
-      "symbol": "TikTok"
+      "symbol": "TIKTOK"
     },
     {
       "address": "0x344bcafbe79f0045d7f6348fcf8a8072c9cf3871",
@@ -44064,7 +44064,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Lincoln Metaverse",
-      "symbol": "Lincoln"
+      "symbol": "LINCOLN"
     },
     {
       "address": "0x851a0a6073722c25730ea5c4c558e2c3ed9a7961",
@@ -44080,7 +44080,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "YouTube Metaverse",
-      "symbol": "YouTube"
+      "symbol": "YOUTUBE"
     },
     {
       "address": "0x7cf56db0f7781d478d5a96f6ee8e0b5cbaaf8ad2",
@@ -44096,7 +44096,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Silo Finance Borrowable WETH Deposit in CRV Silo",
-      "symbol": "sWETH-CRV"
+      "symbol": "SWETH-CRV"
     },
     {
       "address": "0xbcd19bc716458cf224239a9dd5c181a4f213a578",
@@ -44120,7 +44120,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Moonbase",
-      "symbol": "mbBASED"
+      "symbol": "MBBASED"
     },
     {
       "address": "0xa5533a44d06800eaf2daad5aad3f9aa9e1dc3614",
@@ -44160,7 +44160,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "vUSDC Pool",
-      "symbol": "vUSDC"
+      "symbol": "VUSDC"
     },
     {
       "address": "0xb2fad23a7d84fe959c584e54e82fc6e5e98b926b",
@@ -44168,7 +44168,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Epic Games Metaverse",
-      "symbol": "Epic Games"
+      "symbol": "EPIC GAMES"
     },
     {
       "address": "0x85289564d7e03f1d5ba10f0e6e04389636a304db",
@@ -44184,7 +44184,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Across V2 Boba Token LP Token",
-      "symbol": "Av2-BOBA-LP"
+      "symbol": "AV2-BOBA-LP"
     },
     {
       "address": "0x75de9fa3e18071eab22823d6c2bcecde759250ca",
@@ -44216,7 +44216,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Akitsuki",
-      "symbol": "aki"
+      "symbol": "AKI"
     },
     {
       "address": "0x5259c21e1157c30cc5e5fab312e63c75f893df01",
@@ -44256,7 +44256,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "XIO KPI Option Short Token January 2023",
-      "symbol": "XIO-KPI-0123s"
+      "symbol": "XIO-KPI-0123S"
     },
     {
       "address": "0x4c2d355dc87a89a174a4490705084e7fdc1bbd11",
@@ -44272,7 +44272,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Starship Troopers",
-      "symbol": "Starship"
+      "symbol": "STARSHIP"
     },
     {
       "address": "0x1d50c4f18d7af4fce2ea93c7942aae6260788596",
@@ -44280,7 +44280,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "The Stable Garden",
-      "symbol": "The"
+      "symbol": "THE"
     },
     {
       "address": "0xab662863ce609f4cf32601601ba64653e04c5917",
@@ -44304,7 +44304,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "LP Element Principal Token yvCurve-stETH-24FEB23",
-      "symbol": "LPePyvCurve-stETH-24FEB23"
+      "symbol": "LPEPYVCURVE-STETH-24FEB23"
     },
     {
       "address": "0x0f8ce57a2be747e5e5e2792233a66878d659fd90",
@@ -44320,7 +44320,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Wrapped Tokenlon",
-      "symbol": "xLON"
+      "symbol": "XLON"
     },
     {
       "address": "0x3557b3e70a893a4c814f9b15c477543099929c28",
@@ -44336,7 +44336,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "3gg",
-      "symbol": "3gg"
+      "symbol": "3GG"
     },
     {
       "address": "0x10f6245de6b40e88dc3e23a10d9c842ac1ae0601",
@@ -44352,7 +44352,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Aave interest bearing FRAX",
-      "symbol": "aFRAX"
+      "symbol": "AFRAX"
     },
     {
       "address": "0xb90d8c0c2ace705fad8ad7e447dcf3e858c20448",
@@ -44368,7 +44368,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Oxygen",
-      "symbol": "oxy"
+      "symbol": "OXY"
     },
     {
       "address": "0x72cd8f4504941bf8c5a21d1fd83a96499fd71d2c",
@@ -44392,7 +44392,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Jordan Metaverse",
-      "symbol": "Jordan"
+      "symbol": "JORDAN"
     },
     {
       "address": "0x4f4c38d05f39cf4ac52754f23c655b47061e857f",
@@ -44400,7 +44400,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Hilton Metaverse",
-      "symbol": "Hilton"
+      "symbol": "HILTON"
     },
     {
       "address": "0xe2311ae37502105b442bbef831e9b53c5d2e9b3b",
@@ -44424,7 +44424,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "HelloKitty Metaverse",
-      "symbol": "HelloKitty"
+      "symbol": "HELLOKITTY"
     },
     {
       "address": "0x549044000a94870ab7c5017cd8fb0aefa9239a13",
@@ -44432,7 +44432,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "UCONetwork",
-      "symbol": "ucoil"
+      "symbol": "UCOIL"
     },
     {
       "address": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
@@ -44472,7 +44472,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "FilmVault",
-      "symbol": "FilmVault"
+      "symbol": "FILMVAULT"
     },
     {
       "address": "0x9a14e23a58edf4efdcb360f68cd1b95ce2081a2f",
@@ -44480,7 +44480,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Aave interest bearing ENS",
-      "symbol": "aENS"
+      "symbol": "AENS"
     },
     {
       "address": "0x3b27f92c0e212c671ea351827edf93db27cc0c65",
@@ -44488,7 +44488,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "USDT yVault",
-      "symbol": "yvUSDT"
+      "symbol": "YVUSDT"
     },
     {
       "address": "0xefd833524cfa07f6ede9048488f087b72baad3a8",
@@ -44504,7 +44504,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Badger Sett Curve.fi pBTC/sbtcCRV",
-      "symbol": "bpBTC/sbtcCRV"
+      "symbol": "BPBTC/SBTCCRV"
     },
     {
       "address": "0x985dd3d42de1e256d09e1c10f112bccb8015ad41",
@@ -44520,7 +44520,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Fantom AMM USD",
-      "symbol": "fUSD"
+      "symbol": "FUSD"
     },
     {
       "address": "0xab43ca296f7dae6673b6ded9d0b2886bd196bf84",
@@ -44528,7 +44528,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Fantom AMM USD",
-      "symbol": "fUSD"
+      "symbol": "FUSD"
     },
     {
       "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
@@ -44536,7 +44536,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Wrapped Celo",
-      "symbol": "wCELO"
+      "symbol": "WCELO"
     },
     {
       "address": "0x82dbc2673e9640343d263a3c55de49021ad39ae2",
@@ -44584,7 +44584,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve.fi EURS/sEUR",
-      "symbol": "eursCRV"
+      "symbol": "EURSCRV"
     },
     {
       "address": "0x194343c04527d77b826ea77641a674db21fc10df",
@@ -44592,7 +44592,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Sony Pictures",
-      "symbol": "Sony"
+      "symbol": "SONY"
     },
     {
       "address": "0x86abdd77e0d2a433de155c8910417f6d39b22110",
@@ -44624,7 +44624,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Uniqlo Metaverse",
-      "symbol": "Uniqlo"
+      "symbol": "UNIQLO"
     },
     {
       "address": "0xc543a986ba64a196d22f4b7292a77b409066e17e",
@@ -44632,7 +44632,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "B Phuture DeFi Index",
-      "symbol": "bPDI"
+      "symbol": "BPDI"
     },
     {
       "address": "0xc348a365e101c571d1f5c118b63d83d952e6bd6e",
@@ -44712,7 +44712,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Coach Metaverse",
-      "symbol": "Coach"
+      "symbol": "COACH"
     },
     {
       "address": "0x3235b13708f178af6f110de7177ed5de10c1093d",
@@ -44728,7 +44728,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Fortnite Metaverse",
-      "symbol": "Fortnite"
+      "symbol": "FORTNITE"
     },
     {
       "address": "0x2e59d147962e2bb3fbdc52dc18cfba2653c06ccc",
@@ -44744,7 +44744,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Decentralized.",
-      "symbol": "Dream"
+      "symbol": "DREAM"
     },
     {
       "address": "0x2559813bbb508c4c79e9ccce4703bcb1f149edd7",
@@ -44752,7 +44752,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Hourglass",
-      "symbol": "wait"
+      "symbol": "WAIT"
     },
     {
       "address": "0xe1406825186d63980fd6e2ec61888f7b91c4bae4",
@@ -44808,7 +44808,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Ubisoft Metaverse",
-      "symbol": "Ubisoft"
+      "symbol": "UBISOFT"
     },
     {
       "address": "0x5ab6a4f46ce182356b6fa2661ed8ebcafce995ad",
@@ -44824,7 +44824,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Curve.fi Factory Crypto Pool: PAR/USDC",
-      "symbol": "PARUSDC-f"
+      "symbol": "PARUSDC-F"
     },
     {
       "address": "0x1c934bc86839b5718a1bdf69880de56f65388531",
@@ -44856,7 +44856,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "WETH yVault",
-      "symbol": "yvWETH"
+      "symbol": "YVWETH"
     },
     {
       "address": "0x92925acf2771bc59143228499f9610fe5176eb9c",
@@ -44864,7 +44864,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "SYLTARE",
-      "symbol": "syl"
+      "symbol": "SYL"
     },
     {
       "address": "0x1487bd704fa05a222b0adb50dc420f001f003045",
@@ -44888,7 +44888,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Occult",
-      "symbol": "Occult"
+      "symbol": "OCCULT"
     },
     {
       "address": "0x2444dee26599504c04319e2ee88adccb390f568b",
@@ -44896,7 +44896,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Dolce Gabbana Metaverse",
-      "symbol": "Dolce Gabbana"
+      "symbol": "DOLCE GABBANA"
     },
     {
       "address": "0x0e69d0a2bbb30abcb7e5cfea0e4fde19c00a8d47",
@@ -44920,7 +44920,7 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 1,
       "name": "Swiss NFT Fund",
-      "symbol": "swissnftfund"
+      "symbol": "SWISSNFTFUND"
     },
     {
       "address": "0x70d4ae238c0cc278586d853e9cb4a27919465077",
