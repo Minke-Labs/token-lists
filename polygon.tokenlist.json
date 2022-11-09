@@ -11,6 +11,7 @@
   "timestamp": "2022-11-07T00:00:00+00:00",
   "tokens": [
     {
+      "id": "matic-network",
       "symbol": "MATIC",
       "address": "0x0000000000000000000000000000000000000000",
       "decimals": 18,
@@ -24,7 +25,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
       "chainId": 137,
-      "name": "Aave"
+      "name": "Aave",
+      "id": "aave"
     },
     {
       "symbol": "JEUR",
@@ -32,7 +34,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Jarvis Synthetic Euro"
+      "name": "Jarvis Synthetic Euro",
+      "id": "jarvis-synthetic-euro"
     },
     {
       "symbol": "JGBP",
@@ -40,7 +43,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Jarvis Synthetic British Pound"
+      "name": "Jarvis Synthetic British Pound",
+      "id": "jarvis-synthetic-british-pound"
     },
     {
       "symbol": "JCHF",
@@ -48,7 +52,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Jarvis Synthetic Swiss Franc"
+      "name": "Jarvis Synthetic Swiss Franc",
+      "id": "jarvis-synthetic-swiss-franc"
     },
     {
       "symbol": "JAUD",
@@ -88,7 +93,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Jarvis Synthetic Japanese Yen"
+      "name": "Jarvis Synthetic Japanese Yen",
+      "id": "jarvis-synthetic-japanese-yen"
     },
     {
       "symbol": "JKRW",
@@ -160,7 +166,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Beefy.Finance"
+      "name": "Beefy.Finance",
+      "id": "beefy-finance"
     },
     {
       "symbol": "MUST",
@@ -168,7 +175,8 @@
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/cometh_32.png",
       "chainId": 137,
-      "name": "Must"
+      "name": "Must",
+      "id": "must"
     },
     {
       "symbol": "UNI",
@@ -176,7 +184,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png",
       "chainId": 137,
-      "name": "Uniswap"
+      "name": "Uniswap",
+      "id": "uniswap"
     },
     {
       "symbol": "USDC",
@@ -184,7 +193,8 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "chainId": 137,
-      "name": "USD Coin"
+      "name": "USD Coin",
+      "id": "usd-coin"
     },
     {
       "symbol": "USDT",
@@ -192,7 +202,8 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "chainId": 137,
-      "name": "Tether"
+      "name": "Tether",
+      "id": "tether"
     },
     {
       "symbol": "DAI",
@@ -200,7 +211,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
       "chainId": 137,
-      "name": "Dai"
+      "name": "Dai",
+      "id": "dai"
     },
     {
       "symbol": "WBTC",
@@ -208,7 +220,8 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
       "chainId": 137,
-      "name": "Wrapped Bitcoin"
+      "name": "Wrapped Bitcoin",
+      "id": "wrapped-bitcoin"
     },
     {
       "symbol": "LINK",
@@ -216,7 +229,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
       "chainId": 137,
-      "name": "Chainlink"
+      "name": "Chainlink",
+      "id": "chainlink"
     },
     {
       "symbol": "MEME",
@@ -232,7 +246,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "SuperFarm"
+      "name": "SuperFarm",
+      "id": "superfarm"
     },
     {
       "symbol": "DFYN",
@@ -240,7 +255,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Dfyn Network"
+      "name": "Dfyn Network",
+      "id": "dfyn-network"
     },
     {
       "symbol": "MANA",
@@ -248,7 +264,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png",
       "chainId": 137,
-      "name": "Decentraland"
+      "name": "Decentraland",
+      "id": "decentraland"
     },
     {
       "symbol": "MUSD",
@@ -264,7 +281,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
       "chainId": 137,
-      "name": "yearn.finance"
+      "name": "yearn.finance",
+      "id": "yearn-finance"
     },
     {
       "symbol": "QUICK",
@@ -272,7 +290,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg",
       "chainId": 137,
-      "name": "Quickswap [OLD]"
+      "name": "Quickswap [OLD]",
+      "id": "quick"
     },
     {
       "symbol": "RENBTC",
@@ -280,7 +299,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "renBTC"
+      "name": "renBTC",
+      "id": "renbtc"
     },
     {
       "symbol": "WMATIC",
@@ -288,7 +308,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
       "chainId": 137,
-      "name": "Wrapped Matic"
+      "name": "Wrapped Matic",
+      "id": "wmatic"
     },
     {
       "symbol": "DFYNWMATIC",
@@ -304,7 +325,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "HawkDex"
+      "name": "HawkDex",
+      "id": "hawkdex"
     },
     {
       "symbol": "BPT",
@@ -312,7 +334,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "BlackPool"
+      "name": "BlackPool",
+      "id": "blackpool-token"
     },
     {
       "symbol": "AMAAVE",
@@ -320,7 +343,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave Polygon AAVE"
+      "name": "Aave Polygon AAVE",
+      "id": "aave-polygon-aave"
     },
     {
       "symbol": "AMDAI",
@@ -328,7 +352,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave Polygon DAI"
+      "name": "Aave Polygon DAI",
+      "id": "aave-polygon-dai"
     },
     {
       "symbol": "AMUSDC",
@@ -336,7 +361,8 @@
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave Polygon USDC"
+      "name": "Aave Polygon USDC",
+      "id": "aave-polygon-usdc"
     },
     {
       "symbol": "AMUSDT",
@@ -344,7 +370,8 @@
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave Polygon USDT"
+      "name": "Aave Polygon USDT",
+      "id": "aave-polygon-usdt"
     },
     {
       "symbol": "AMWBTC",
@@ -352,7 +379,8 @@
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave Polygon WBTC"
+      "name": "Aave Polygon WBTC",
+      "id": "aave-polygon-wbtc"
     },
     {
       "symbol": "AMWETH",
@@ -360,7 +388,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave Polygon WETH"
+      "name": "Aave Polygon WETH",
+      "id": "aave-polygon-weth"
     },
     {
       "symbol": "AMWMATIC",
@@ -368,7 +397,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave Polygon WMATIC"
+      "name": "Aave Polygon WMATIC",
+      "id": "aave-polygon-wmatic"
     },
     {
       "symbol": "COMP",
@@ -376,7 +406,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
       "chainId": 137,
-      "name": "Compound"
+      "name": "Compound",
+      "id": "compound-governance-token"
     },
     {
       "symbol": "BTU",
@@ -384,7 +415,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f/logo.png",
       "chainId": 137,
-      "name": "BTU Protocol"
+      "name": "BTU Protocol",
+      "id": "btu-protocol"
     },
     {
       "symbol": "$DG",
@@ -392,7 +424,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg",
       "chainId": 137,
-      "name": "Decentral Games (Old)"
+      "name": "Decentral Games (Old)",
+      "id": "decentral-games-old"
     },
     {
       "symbol": "0XBTC",
@@ -400,7 +433,8 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png",
       "chainId": 137,
-      "name": "0xBitcoin"
+      "name": "0xBitcoin",
+      "id": "oxbitcoin"
     },
     {
       "symbol": "AGA",
@@ -408,7 +442,8 @@
       "decimals": 4,
       "logoURI": "https://i.imgur.com/R0aQlym.png",
       "chainId": 137,
-      "name": "AGA"
+      "name": "AGA",
+      "id": "aga-token"
     },
     {
       "symbol": "AGAR",
@@ -416,7 +451,8 @@
       "decimals": 8,
       "logoURI": "https://i.imgur.com/06BkcTT.png",
       "chainId": 137,
-      "name": "AGA Rewards"
+      "name": "AGA Rewards",
+      "id": "aga-rewards-2"
     },
     {
       "symbol": "ARIA20",
@@ -424,7 +460,8 @@
       "decimals": 18,
       "logoURI": "https://aria.fyi/images/Aria_Logo_256.png",
       "chainId": 137,
-      "name": "Arianee"
+      "name": "Arianee",
+      "id": "arianee"
     },
     {
       "symbol": "AZUKI",
@@ -432,7 +469,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png",
       "chainId": 137,
-      "name": "Azuki"
+      "name": "Azuki",
+      "id": "azuki"
     },
     {
       "symbol": "CC10",
@@ -448,7 +486,8 @@
       "decimals": 4,
       "logoURI": "https://assets.coingecko.com/coins/images/3263/small/CEL_logo.png?1609598753",
       "chainId": 137,
-      "name": "Celsius Network"
+      "name": "Celsius Network",
+      "id": "celsius-degree-token"
     },
     {
       "symbol": "CFI",
@@ -456,7 +495,8 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/Z8V1O7H.png",
       "chainId": 137,
-      "name": "CyberFi"
+      "name": "CyberFi",
+      "id": "cyberfi"
     },
     {
       "symbol": "CTSI",
@@ -464,7 +504,8 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/q3SnElh.png",
       "chainId": 137,
-      "name": "Cartesi"
+      "name": "Cartesi",
+      "id": "cartesi"
     },
     {
       "symbol": "DB",
@@ -472,7 +513,8 @@
       "decimals": 18,
       "logoURI": "https://dark-build.app/logo192.png",
       "chainId": 137,
-      "name": "Dark.Build"
+      "name": "Dark.Build",
+      "id": "darkbuild-v2"
     },
     {
       "symbol": "DEFI5",
@@ -496,7 +538,8 @@
       "decimals": 18,
       "logoURI": "https://darkmatter.finance/i/favicon/512x512.png",
       "chainId": 137,
-      "name": "Dark Matter"
+      "name": "Dark Matter",
+      "id": "dark-matter"
     },
     {
       "symbol": "DRC",
@@ -504,7 +547,8 @@
       "decimals": 0,
       "logoURI": "https://pbs.twimg.com/profile_images/1318783238291292160/R4DxXdRA_400x400.jpg",
       "chainId": 137,
-      "name": "Digital Reserve Currency"
+      "name": "Digital Reserve Currency",
+      "id": "digital-reserve-currency"
     },
     {
       "symbol": "DSLA",
@@ -512,7 +556,8 @@
       "decimals": 18,
       "logoURI": "https://storage.googleapis.com/stacktical-public/dsla.png",
       "chainId": 137,
-      "name": "DSLA Protocol"
+      "name": "DSLA Protocol",
+      "id": "stacktical"
     },
     {
       "symbol": "EASY",
@@ -536,7 +581,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "chainId": 137,
-      "name": "WETH"
+      "name": "WETH",
+      "id": "weth"
     },
     {
       "symbol": "FRAX",
@@ -560,7 +606,8 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/IIUglm9.png?1",
       "chainId": 137,
-      "name": "GameCredits"
+      "name": "GameCredits",
+      "id": "gamecredits"
     },
     {
       "symbol": "GHST",
@@ -568,7 +615,8 @@
       "decimals": 18,
       "logoURI": "https://aavegotchi.com/images/ghsttoken.svg",
       "chainId": 137,
-      "name": "Aavegotchi"
+      "name": "Aavegotchi",
+      "id": "aavegotchi"
     },
     {
       "symbol": "HEX",
@@ -576,7 +624,8 @@
       "decimals": 8,
       "logoURI": "https://hex.com/favicon.png",
       "chainId": 137,
-      "name": "HEX"
+      "name": "HEX",
+      "id": "hex"
     },
     {
       "symbol": "HH",
@@ -584,7 +633,8 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13719/small/hh.png?1611137626",
       "chainId": 137,
-      "name": "Mover"
+      "name": "Mover",
+      "id": "holyheld-2"
     },
     {
       "symbol": "IGG",
@@ -592,7 +642,8 @@
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/7697/small/N7aEdYrY_400x400.png?1561587437",
       "chainId": 137,
-      "name": "IG Gold"
+      "name": "IG Gold",
+      "id": "ig-gold"
     },
     {
       "symbol": "JULIEN",
@@ -616,7 +667,8 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/FR12tmm.jpg",
       "chainId": 137,
-      "name": "Monavale"
+      "name": "Monavale",
+      "id": "monavale"
     },
     {
       "symbol": "NDR",
@@ -632,7 +684,8 @@
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/mantradao_32.png",
       "chainId": 137,
-      "name": "MANTRA"
+      "name": "MANTRA",
+      "id": "mantra-dao"
     },
     {
       "symbol": "PICKLE",
@@ -640,7 +693,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/pickle.png",
       "chainId": 137,
-      "name": "Pickle Finance"
+      "name": "Pickle Finance",
+      "id": "pickle-finance"
     },
     {
       "symbol": "PPDEX",
@@ -648,7 +702,8 @@
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2",
       "chainId": 137,
-      "name": "Pepedex"
+      "name": "Pepedex",
+      "id": "pepedex"
     },
     {
       "symbol": "RBAL",
@@ -664,7 +719,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt.png",
       "chainId": 137,
-      "name": "Stake DAO"
+      "name": "Stake DAO",
+      "id": "stake-dao"
     },
     {
       "symbol": "SENT",
@@ -680,7 +736,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
       "chainId": 137,
-      "name": "Sushi"
+      "name": "Sushi",
+      "id": "sushi"
     },
     {
       "symbol": "SWAP",
@@ -688,7 +745,8 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/vZnU36G.png",
       "chainId": 137,
-      "name": "Trustswap"
+      "name": "Trustswap",
+      "id": "trustswap"
     },
     {
       "symbol": "SWG",
@@ -704,7 +762,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg",
       "chainId": 137,
-      "name": "SX Network"
+      "name": "SX Network",
+      "id": "sx-network"
     },
     {
       "symbol": "UBT",
@@ -712,7 +771,8 @@
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916",
       "chainId": 137,
-      "name": "Unibright"
+      "name": "Unibright",
+      "id": "unibright"
     },
     {
       "symbol": "VISION",
@@ -720,7 +780,8 @@
       "decimals": 18,
       "logoURI": "https://s3-us-west-2.amazonaws.com/acf-uploads/apyvisionlogo200circle.png",
       "chainId": 137,
-      "name": "APY.vision"
+      "name": "APY.vision",
+      "id": "apy-vision"
     },
     {
       "symbol": "WISE",
@@ -736,7 +797,8 @@
       "decimals": 9,
       "logoURI": "https://i.imgur.com/UIjlQpC.png",
       "chainId": 137,
-      "name": "moonwolf.io"
+      "name": "moonwolf.io",
+      "id": "moonwolf-io"
     },
     {
       "symbol": "WRX",
@@ -744,7 +806,8 @@
       "decimals": 8,
       "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png",
       "chainId": 137,
-      "name": "WazirX"
+      "name": "WazirX",
+      "id": "wazirx"
     },
     {
       "symbol": "ZUT",
@@ -752,7 +815,8 @@
       "decimals": 18,
       "logoURI": "https://s2.gifyu.com/images/zutlogo.jpg",
       "chainId": 137,
-      "name": "Zero Utility"
+      "name": "Zero Utility",
+      "id": "zero-utility-token"
     },
     {
       "symbol": "ZUZ",
@@ -808,7 +872,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/harvestfi/assets/main/farm-logo.png",
       "chainId": 137,
-      "name": "iFARM"
+      "name": "iFARM",
+      "id": "ifarm"
     },
     {
       "symbol": "MDEF",
@@ -840,7 +905,8 @@
       "decimals": 18,
       "logoURI": "https://aavegotchi.com/images/matokens/maAAVE.svg",
       "chainId": 137,
-      "name": "Matic Aave Interest Bearing AAVE"
+      "name": "Matic Aave Interest Bearing AAVE",
+      "id": "matic-aave-aave"
     },
     {
       "symbol": "MADAI",
@@ -848,7 +914,8 @@
       "decimals": 18,
       "logoURI": "https://aavegotchi.com/images/matokens/maDAI.svg",
       "chainId": 137,
-      "name": "Matic Aave Interest Bearing DAI"
+      "name": "Matic Aave Interest Bearing DAI",
+      "id": "matic-aave-dai"
     },
     {
       "symbol": "MALINK",
@@ -856,7 +923,8 @@
       "decimals": 18,
       "logoURI": "https://aavegotchi.com/images/matokens/maLINK.svg",
       "chainId": 137,
-      "name": "Matic Aave Interest Bearing LINK"
+      "name": "Matic Aave Interest Bearing LINK",
+      "id": "matic-aave-link"
     },
     {
       "symbol": "MATUSD",
@@ -864,7 +932,8 @@
       "decimals": 18,
       "logoURI": "https://aavegotchi.com/images/matokens/maTUSD.svg",
       "chainId": 137,
-      "name": "Matic Aave interest bearing TUSD"
+      "name": "Matic Aave interest bearing TUSD",
+      "id": "matic-aave-tusd"
     },
     {
       "symbol": "MAUNI",
@@ -880,7 +949,8 @@
       "decimals": 6,
       "logoURI": "https://aavegotchi.com/images/matokens/maUSDC.svg",
       "chainId": 137,
-      "name": "Matic Aave Interest Bearing USDC"
+      "name": "Matic Aave Interest Bearing USDC",
+      "id": "matic-aave-usdc"
     },
     {
       "symbol": "MAUSDT",
@@ -896,7 +966,8 @@
       "decimals": 18,
       "logoURI": "https://aavegotchi.com/images/matokens/maWETH.svg",
       "chainId": 137,
-      "name": "Matic Aave Interest Bearing WETH"
+      "name": "Matic Aave Interest Bearing WETH",
+      "id": "matic-aave-weth"
     },
     {
       "symbol": "MAYFI",
@@ -904,7 +975,8 @@
       "decimals": 18,
       "logoURI": "https://aavegotchi.com/images/matokens/maYFI.svg",
       "chainId": 137,
-      "name": "Matic Aave Interest Bearing YFI"
+      "name": "Matic Aave Interest Bearing YFI",
+      "id": "matic-aave-yfi"
     },
     {
       "symbol": "SD3CRV",
@@ -936,7 +1008,8 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8cb78aca77b340510958ed98a3cd260d2d7f0420/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png",
       "chainId": 137,
-      "name": "xMARK"
+      "name": "xMARK",
+      "id": "xmark"
     },
     {
       "symbol": "XSDT",
@@ -952,7 +1025,8 @@
       "decimals": 2,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "STASIS EURO"
+      "name": "STASIS EURO",
+      "id": "stasis-eurs"
     },
     {
       "symbol": "BAL",
@@ -960,7 +1034,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Balancer"
+      "name": "Balancer",
+      "id": "balancer"
     },
     {
       "symbol": "CRV",
@@ -968,7 +1043,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Curve DAO"
+      "name": "Curve DAO",
+      "id": "curve-dao-token"
     },
     {
       "symbol": "DPI",
@@ -976,7 +1052,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "DeFi Pulse Index"
+      "name": "DeFi Pulse Index",
+      "id": "defipulse-index"
     },
     {
       "symbol": "AGEUR",
@@ -984,7 +1061,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "agEUR"
+      "name": "agEUR",
+      "id": "ageur"
     },
     {
       "symbol": "APOLAAVE",
@@ -1000,7 +1078,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave DAI"
+      "name": "Aave DAI",
+      "id": "aave-dai"
     },
     {
       "symbol": "APOLUSDC",
@@ -1008,7 +1087,8 @@
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave USDC"
+      "name": "Aave USDC",
+      "id": "aave-usdc"
     },
     {
       "symbol": "APOLUSDT",
@@ -1016,7 +1096,8 @@
       "decimals": 6,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave USDT"
+      "name": "Aave USDT",
+      "id": "aave-usdt"
     },
     {
       "symbol": "APOLWBTC",
@@ -1024,7 +1105,8 @@
       "decimals": 8,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave WBTC"
+      "name": "Aave WBTC",
+      "id": "aave-wbtc"
     },
     {
       "symbol": "APOLWETH",
@@ -1032,7 +1114,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave WETH"
+      "name": "Aave WETH",
+      "id": "aave-weth"
     },
     {
       "symbol": "APOLWMATIC",
@@ -1048,7 +1131,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave LINK"
+      "name": "Aave LINK",
+      "id": "aave-link"
     },
     {
       "symbol": "APOLEURS",
@@ -1080,7 +1164,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Aave CRV"
+      "name": "Aave CRV",
+      "id": "aave-crv"
     },
     {
       "symbol": "APOLDPI",
@@ -1120,7 +1205,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Adshares",
-      "symbol": "ADS"
+      "symbol": "ADS",
+      "id": "adshares"
     },
     {
       "address": "0xb2d28599428c66f75fee3184aeda2eae62c3707c",
@@ -1144,7 +1230,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Polywhale",
-      "symbol": "KRILL"
+      "symbol": "KRILL",
+      "id": "polywhale"
     },
     {
       "address": "0x1631244689ec1fecbdd22fb5916e920dfc9b8d30",
@@ -1152,7 +1239,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Ovr",
-      "symbol": "OVR"
+      "symbol": "OVR",
+      "id": "ovr"
     },
     {
       "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
@@ -1160,7 +1248,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "MAI",
-      "symbol": "MIMATIC"
+      "symbol": "MIMATIC",
+      "id": "mimatic"
     },
     {
       "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
@@ -1168,7 +1257,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "BOB",
-      "symbol": "BOB"
+      "symbol": "BOB",
+      "id": "bob"
     },
     {
       "address": "0x00e5646f60ac6fb446f621d146b6e1886f002905",
@@ -1176,7 +1266,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Rai Reflex Index",
-      "symbol": "RAI"
+      "symbol": "RAI",
+      "id": "rai"
     },
     {
       "address": "0xf4c83080e80ae530d6f8180572cbbf1ac9d5d435",
@@ -1184,7 +1275,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "BlockWallet",
-      "symbol": "BLANK"
+      "symbol": "BLANK",
+      "id": "blank"
     },
     {
       "address": "0xd8ca34fd379d9ca3c6ee3b3905678320f5b45195",
@@ -1192,7 +1284,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Governance OHM",
-      "symbol": "GOHM"
+      "symbol": "GOHM",
+      "id": "governance-ohm"
     },
     {
       "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
@@ -1200,7 +1293,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Quickswap",
-      "symbol": "QUICK"
+      "symbol": "QUICK",
+      "id": "quickswap"
     },
     {
       "address": "0x958d208cdf087843e9ad98d23823d32e17d723a1",
@@ -1216,7 +1310,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Optimus OPT3",
-      "symbol": "OPT3"
+      "symbol": "OPT3",
+      "id": "optimus-opt3"
     },
     {
       "address": "0x42d61d766b85431666b39b89c43011f24451bff6",
@@ -1224,7 +1319,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ParaSwap",
-      "symbol": "PSP"
+      "symbol": "PSP",
+      "id": "paraswap"
     },
     {
       "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
@@ -1232,7 +1328,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Lido Staked Matic",
-      "symbol": "STMATIC"
+      "symbol": "STMATIC",
+      "id": "lido-staked-matic"
     },
     {
       "address": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
@@ -1240,7 +1337,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "PolyDoge",
-      "symbol": "POLYDOGE"
+      "symbol": "POLYDOGE",
+      "id": "polydoge"
     },
     {
       "address": "0x3b56a704c01d650147ade2b8cee594066b3f9421",
@@ -1248,7 +1346,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Affyn",
-      "symbol": "FYN"
+      "symbol": "FYN",
+      "id": "affyn"
     },
     {
       "address": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
@@ -1256,7 +1355,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Voxies",
-      "symbol": "VOXEL"
+      "symbol": "VOXEL",
+      "id": "voxies"
     },
     {
       "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
@@ -1264,7 +1364,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Qi Dao",
-      "symbol": "QI"
+      "symbol": "QI",
+      "id": "qi-dao"
     },
     {
       "address": "0xdfce1e99a31c4597a3f8a8945cbfa9037655e335",
@@ -1272,7 +1373,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Astrafer",
-      "symbol": "ASTRAFER"
+      "symbol": "ASTRAFER",
+      "id": "astrafer"
     },
     {
       "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
@@ -1280,7 +1382,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "SOL (Wormhole)",
-      "symbol": "SOL"
+      "symbol": "SOL",
+      "id": "sol-wormhole"
     },
     {
       "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
@@ -1288,7 +1391,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Telcoin",
-      "symbol": "TEL"
+      "symbol": "TEL",
+      "id": "telcoin"
     },
     {
       "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
@@ -1296,7 +1400,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "The Sandbox",
-      "symbol": "SAND"
+      "symbol": "SAND",
+      "id": "the-sandbox"
     },
     {
       "address": "0x596ebe76e2db4470966ea395b0d063ac6197a8c5",
@@ -1304,7 +1409,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Jarvis Reward",
-      "symbol": "JRT"
+      "symbol": "JRT",
+      "id": "jarvis-reward-token"
     },
     {
       "address": "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae",
@@ -1312,7 +1418,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Pegaxy Stone",
-      "symbol": "PGX"
+      "symbol": "PGX",
+      "id": "pegaxy-stone"
     },
     {
       "address": "0x1599fe55cda767b1f631ee7d414b41f5d6de393d",
@@ -1320,7 +1427,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Cool Cats Milk",
-      "symbol": "MILK"
+      "symbol": "MILK",
+      "id": "milk"
     },
     {
       "address": "0x4eac4c4e9050464067d673102f8e24b2fcceb350",
@@ -1336,7 +1444,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "The Doge NFT",
-      "symbol": "DOG"
+      "symbol": "DOG",
+      "id": "the-doge-nft"
     },
     {
       "address": "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf",
@@ -1352,7 +1461,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "OneRare",
-      "symbol": "ORARE"
+      "symbol": "ORARE",
+      "id": "onerare"
     },
     {
       "address": "0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35",
@@ -1360,7 +1470,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "MASQ",
-      "symbol": "MASQ"
+      "symbol": "MASQ",
+      "id": "masq"
     },
     {
       "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
@@ -1368,7 +1479,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ApeSwap",
-      "symbol": "BANANA"
+      "symbol": "BANANA",
+      "id": "apeswap-finance"
     },
     {
       "address": "0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae",
@@ -1376,7 +1488,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "CoinsPaid",
-      "symbol": "CPD"
+      "symbol": "CPD",
+      "id": "coinspaid"
     },
     {
       "address": "0x7bfe43e475ebea07fa03337da551e18502c8793c",
@@ -1400,7 +1513,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Stader MaticX",
-      "symbol": "MATICX"
+      "symbol": "MATICX",
+      "id": "stader-maticx"
     },
     {
       "address": "0xb20fc01d21a50d2c734c4a1262b4404d41fa7bf0",
@@ -1424,7 +1538,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Lucidao",
-      "symbol": "LCD"
+      "symbol": "LCD",
+      "id": "lucidao"
     },
     {
       "address": "0xd247c2163d39263a1ab2391ad106c534aa3d2a48",
@@ -1448,7 +1563,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "MCH Coin",
-      "symbol": "MCHC"
+      "symbol": "MCHC",
+      "id": "mch-coin"
     },
     {
       "address": "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff",
@@ -1456,7 +1572,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Orbs",
-      "symbol": "ORBS"
+      "symbol": "ORBS",
+      "id": "orbs"
     },
     {
       "address": "0xd55fce7cdab84d84f2ef3f99816d765a2a94a509",
@@ -1464,7 +1581,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Chain Games",
-      "symbol": "CHAIN"
+      "symbol": "CHAIN",
+      "id": "chain-games"
     },
     {
       "address": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23",
@@ -1472,7 +1590,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Raider Aurum",
-      "symbol": "AURUM"
+      "symbol": "AURUM",
+      "id": "raider-aurum"
     },
     {
       "address": "0xacd4e2d936be9b16c01848a3742a34b3d5a5bdfa",
@@ -1480,7 +1599,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Mechanium",
-      "symbol": "$MECHA"
+      "symbol": "$MECHA",
+      "id": "mechachain"
     },
     {
       "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
@@ -1488,7 +1608,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Metavault Trade",
-      "symbol": "MVX"
+      "symbol": "MVX",
+      "id": "metavault-trade"
     },
     {
       "address": "0x3c5a5885f6ee4acc2597069fe3c19f49c6efba96",
@@ -1496,7 +1617,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Krida Fans",
-      "symbol": "KRIDA"
+      "symbol": "KRIDA",
+      "id": "krida-fans"
     },
     {
       "address": "0xabc6790673a60b8a7f588450f59d2d256b1aef7f",
@@ -1512,7 +1634,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Router Protocol",
-      "symbol": "ROUTE"
+      "symbol": "ROUTE",
+      "id": "route"
     },
     {
       "address": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
@@ -1520,7 +1643,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "UniFarm",
-      "symbol": "UFARM"
+      "symbol": "UFARM",
+      "id": "unifarm"
     },
     {
       "address": "0xf6f85b3f9fd581c2ee717c404f7684486f057f95",
@@ -1528,7 +1652,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Nord Finance",
-      "symbol": "NORD"
+      "symbol": "NORD",
+      "id": "nord-finance"
     },
     {
       "address": "0x6c3b2f402cd7d22ae2c319b9d2f16f57927a4a17",
@@ -1536,7 +1661,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "KROWN",
-      "symbol": "KRW"
+      "symbol": "KRW",
+      "id": "krown"
     },
     {
       "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
@@ -1544,7 +1670,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Matrix Labs",
-      "symbol": "MATRIX"
+      "symbol": "MATRIX",
+      "id": "matrixswap"
     },
     {
       "address": "0x04b33078ea1aef29bf3fb29c6ab7b200c58ea126",
@@ -1552,7 +1679,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Safle",
-      "symbol": "SAFLE"
+      "symbol": "SAFLE",
+      "id": "safle"
     },
     {
       "address": "0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f",
@@ -1560,7 +1688,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Paw V2",
-      "symbol": "PAW"
+      "symbol": "PAW",
+      "id": "paw-v2"
     },
     {
       "address": "0x83d8af1ad528fd400f141b7190859e54d83bfe7f",
@@ -1576,7 +1705,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Gaj Finance",
-      "symbol": "GAJ"
+      "symbol": "GAJ",
+      "id": "gaj"
     },
     {
       "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
@@ -1592,7 +1722,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "DinoSwap",
-      "symbol": "DINO"
+      "symbol": "DINO",
+      "id": "dinoswap"
     },
     {
       "address": "0x6ab4d79c4dbb009a2c4c6b7f8e8e067fc92e28b9",
@@ -1616,7 +1747,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Giddy",
-      "symbol": "GDDY"
+      "symbol": "GDDY",
+      "id": "giddy"
     },
     {
       "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
@@ -1624,7 +1756,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Klima DAO",
-      "symbol": "KLIMA"
+      "symbol": "KLIMA",
+      "id": "klima-dao"
     },
     {
       "address": "0x221836a597948dce8f3568e044ff123108acc42a",
@@ -1648,15 +1781,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Decentral Games ICE",
-      "symbol": "ICE"
-    },
-    {
-      "address": "0x576cf361711cd940cd9c397bb98c4c896cbd38de",
-      "decimals": 6,
-      "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 137,
-      "name": "USD Coin",
-      "symbol": "USDC"
+      "symbol": "ICE",
+      "id": "decentral-games-ice"
     },
     {
       "address": "0x8d520c8e66091cfd6743fe37fbe3a09505616c4b",
@@ -1664,7 +1790,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Cosplay Token",
-      "symbol": "COT"
+      "symbol": "COT",
+      "id": "cosplay-token-2"
     },
     {
       "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
@@ -1672,7 +1799,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Razor Network",
-      "symbol": "RAZOR"
+      "symbol": "RAZOR",
+      "id": "razor-network"
     },
     {
       "address": "0x204820b6e6feae805e376d2c6837446186e57981",
@@ -1680,7 +1808,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ROND",
-      "symbol": "ROND"
+      "symbol": "ROND",
+      "id": "rond"
     },
     {
       "address": "0xa3c322ad15218fbfaed26ba7f616249f7705d945",
@@ -1688,7 +1817,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "GensoKishi Metaverse",
-      "symbol": "MV"
+      "symbol": "MV",
+      "id": "gensokishis-metaverse"
     },
     {
       "address": "0x4cebdbcb286101a17d3ea1f7fe7bbded2b2053dd",
@@ -1696,7 +1826,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Yield App",
-      "symbol": "YLD"
+      "symbol": "YLD",
+      "id": "yield-app"
     },
     {
       "address": "0x0d0b8488222f7f83b23e365320a4021b12ead608",
@@ -1704,7 +1835,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Next Earth",
-      "symbol": "NXTT"
+      "symbol": "NXTT",
+      "id": "next-earth"
     },
     {
       "address": "0x695fc8b80f344411f34bdbcb4e621aa69ada384b",
@@ -1712,7 +1844,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Nitro League",
-      "symbol": "NITRO"
+      "symbol": "NITRO",
+      "id": "nitro-league"
     },
     {
       "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
@@ -1720,7 +1853,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Kyber Network Crystal",
-      "symbol": "KNC"
+      "symbol": "KNC",
+      "id": "kyber-network-crystal"
     },
     {
       "address": "0xe7804d91dfcde7f776c90043e03eaa6df87e6395",
@@ -1728,7 +1862,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "DFX Finance",
-      "symbol": "DFX"
+      "symbol": "DFX",
+      "id": "dfx-finance"
     },
     {
       "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
@@ -1736,7 +1871,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "TrueUSD",
-      "symbol": "TUSD"
+      "symbol": "TUSD",
+      "id": "true-usd"
     },
     {
       "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
@@ -1744,7 +1880,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Lido DAO",
-      "symbol": "LDO"
+      "symbol": "LDO",
+      "id": "lido-dao"
     },
     {
       "address": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128",
@@ -1752,7 +1889,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Parallel",
-      "symbol": "PAR"
+      "symbol": "PAR",
+      "id": "par-stablecoin"
     },
     {
       "address": "0x6f57ec3c983a04c9bf9958c9e908c39a3cd0870d",
@@ -1776,7 +1914,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Alta Finance",
-      "symbol": "ALTA"
+      "symbol": "ALTA",
+      "id": "alta-finance"
     },
     {
       "address": "0xdc3326e71d45186f113a2f448984ca0e8d201995",
@@ -1784,7 +1923,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "XSGD",
-      "symbol": "XSGD"
+      "symbol": "XSGD",
+      "id": "xsgd"
     },
     {
       "address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
@@ -1792,7 +1932,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Revolt 2 Earn",
-      "symbol": "RVLT"
+      "symbol": "RVLT",
+      "id": "revolt-2-earn"
     },
     {
       "address": "0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
@@ -1800,7 +1941,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Crypto Unicorns Rainbow",
-      "symbol": "RBW"
+      "symbol": "RBW",
+      "id": "rainbow-token-2"
     },
     {
       "address": "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
@@ -1808,7 +1950,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Digital Fitness",
-      "symbol": "DEFIT"
+      "symbol": "DEFIT",
+      "id": "defit"
     },
     {
       "address": "0x70c006878a5a50ed185ac4c87d837633923de296",
@@ -1816,7 +1959,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "REVV",
-      "symbol": "REVV"
+      "symbol": "REVV",
+      "id": "revv"
     },
     {
       "address": "0x502afb0c135ea63b7db42eebd822897dad2f680c",
@@ -1832,7 +1976,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "USD+",
-      "symbol": "USD+"
+      "symbol": "USD+",
+      "id": "usd"
     },
     {
       "address": "0xc41214fc9f2bd9705e7a271409471161aa0e8808",
@@ -1848,7 +1993,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Fear",
-      "symbol": "FEAR"
+      "symbol": "FEAR",
+      "id": "fear"
     },
     {
       "address": "0x65a05db8322701724c197af82c9cae41195b0aa8",
@@ -1856,7 +2002,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ShapeShift FOX",
-      "symbol": "FOX"
+      "symbol": "FOX",
+      "id": "shapeshift-fox-token"
     },
     {
       "address": "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe",
@@ -1864,7 +2011,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "IX",
-      "symbol": "IXT"
+      "symbol": "IXT",
+      "id": "ix-token"
     },
     {
       "address": "0x32934cb16da43fd661116468c1b225fc26cf9a8c",
@@ -1872,7 +2020,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "StrongNode",
-      "symbol": "SNE"
+      "symbol": "SNE",
+      "id": "strongnode"
     },
     {
       "address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
@@ -1880,7 +2029,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ICHI",
-      "symbol": "ICHI"
+      "symbol": "ICHI",
+      "id": "ichi-farm"
     },
     {
       "address": "0x1f194578e7510a350fb517a9ce63c40fa1899427",
@@ -1896,7 +2046,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "CVI",
-      "symbol": "GOVI"
+      "symbol": "GOVI",
+      "id": "govi"
     },
     {
       "address": "0xedcfb6984a3c70501baa8b7f5421ae795ecc1496",
@@ -1904,7 +2055,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ABCMETA",
-      "symbol": "META"
+      "symbol": "META",
+      "id": "abcmeta"
     },
     {
       "address": "0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57",
@@ -1912,7 +2064,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Wrapped Terra Classic",
-      "symbol": "LUNC"
+      "symbol": "LUNC",
+      "id": "wrapped-terra"
     },
     {
       "address": "0x9cd6746665d9557e1b9a775819625711d0693439",
@@ -1920,7 +2073,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Terra Classic (Wormhole)",
-      "symbol": "LUNC"
+      "symbol": "LUNC",
+      "id": "luna-wormhole"
     },
     {
       "address": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
@@ -1928,7 +2082,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Avalanche",
-      "symbol": "AVAX"
+      "symbol": "AVAX",
+      "id": "avalanche-2"
     },
     {
       "address": "0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4",
@@ -1944,7 +2099,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Wrapped USTC",
-      "symbol": "USTC"
+      "symbol": "USTC",
+      "id": "wrapped-ust"
     },
     {
       "address": "0xa3c342c1630be4a779d0896925787effad0569cb",
@@ -1960,7 +2116,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "JPY Coin v1",
-      "symbol": "JPYC"
+      "symbol": "JPYC",
+      "id": "jpyc"
     },
     {
       "address": "0x3eae5bd24b2038fb40688e5f0b4682a773db3733",
@@ -1984,7 +2141,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "TerraUSD (Wormhole)",
-      "symbol": "UST"
+      "symbol": "UST",
+      "id": "terrausd-wormhole"
     },
     {
       "address": "0xc9cc612c3d118f40d2f876bbd49f270b18f82da1",
@@ -2000,7 +2158,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Binance USD",
-      "symbol": "BUSD"
+      "symbol": "BUSD",
+      "id": "binance-usd"
     },
     {
       "address": "0x8c4476dfec8e7eedf2de3e9e9461b7c14c828d46",
@@ -2008,7 +2167,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "UniX",
-      "symbol": "UNIX"
+      "symbol": "UNIX",
+      "id": "unix"
     },
     {
       "address": "0xef938b6da8576a896f6e0321ef80996f4890f9c4",
@@ -2016,7 +2176,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Decentral Games",
-      "symbol": "DG"
+      "symbol": "DG",
+      "id": "decentral-games"
     },
     {
       "address": "0xe82808eaa78339b06a691fd92e1be79671cad8d3",
@@ -2024,7 +2185,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "PlotX",
-      "symbol": "PLOT"
+      "symbol": "PLOT",
+      "id": "plotx"
     },
     {
       "address": "0x1379e8886a944d2d9d440b3d88df536aea08d9f3",
@@ -2032,7 +2194,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Mysterium",
-      "symbol": "MYST"
+      "symbol": "MYST",
+      "id": "mysterium"
     },
     {
       "address": "0xdb725f82818de83e99f1dac22a9b5b51d3d04dd4",
@@ -2040,7 +2203,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "GET Protocol",
-      "symbol": "GET"
+      "symbol": "GET",
+      "id": "get-token"
     },
     {
       "address": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
@@ -2048,7 +2212,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Crypto Raiders",
-      "symbol": "RAIDER"
+      "symbol": "RAIDER",
+      "id": "crypto-raiders"
     },
     {
       "address": "0xb1cb4ac6b1685dcbe691b9246406748805aa6fa8",
@@ -2064,7 +2229,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "StackOS",
-      "symbol": "STACK"
+      "symbol": "STACK",
+      "id": "stackos"
     },
     {
       "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
@@ -2072,7 +2238,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Polycat Finance",
-      "symbol": "FISH"
+      "symbol": "FISH",
+      "id": "polycat-finance"
     },
     {
       "address": "0x462d8d82c2b2d2ddabf7f8a93928de09d47a5807",
@@ -2088,7 +2255,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Cryption Network",
-      "symbol": "CNT"
+      "symbol": "CNT",
+      "id": "cryption-network"
     },
     {
       "address": "0xd0f3121a190d85de0ab6131f2bcecdbfcfb38891",
@@ -2097,14 +2265,6 @@
       "chainId": 137,
       "name": "PolyYeld Token",
       "symbol": "YELD"
-    },
-    {
-      "address": "0x50207d05adb6dab52fcd7956f37aea3223d3877d",
-      "decimals": 18,
-      "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 137,
-      "name": "BUSD-BD1",
-      "symbol": "BUSD"
     },
     {
       "address": "0x2fa14d392d7e85905606023f58f4cbfbef285969",
@@ -2128,7 +2288,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Flare",
-      "symbol": "1FLR"
+      "symbol": "1FLR",
+      "id": "flare-token"
     },
     {
       "address": "0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec",
@@ -2160,7 +2321,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "WolfSafePoorPeople Polygon",
-      "symbol": "WSPP"
+      "symbol": "WSPP",
+      "id": "wolfsafepoorpeople-polygon"
     },
     {
       "address": "0x8851d282833db41f5ddb4266618d1ca230800277",
@@ -2176,7 +2338,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Rebel Bots",
-      "symbol": "RBLS"
+      "symbol": "RBLS",
+      "id": "rebel-bots"
     },
     {
       "address": "0xd0cfd20e8bbdb7621b705a4fd61de2e80c2cd02f",
@@ -2184,7 +2347,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Safeswap SSGTX",
-      "symbol": "SSGTX"
+      "symbol": "SSGTX",
+      "id": "safeswap-token"
     },
     {
       "address": "0xaec815ae1e9ab58f49692aec2840ffc82c56f7e5",
@@ -2192,7 +2356,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "IDOL",
-      "symbol": "$IDOL"
+      "symbol": "$IDOL",
+      "id": "idol"
     },
     {
       "address": "0x839f1a22a59eaaf26c85958712ab32f80fea23d9",
@@ -2200,7 +2365,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Axion",
-      "symbol": "AXN"
+      "symbol": "AXN",
+      "id": "axion"
     },
     {
       "address": "0x55b1a124c04a54eefdefe5fa2ef5f852fb5f2f26",
@@ -2208,7 +2374,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Ethereum Meta",
-      "symbol": "ETHM"
+      "symbol": "ETHM",
+      "id": "ethereum-meta"
     },
     {
       "address": "0x4e9d760637da87fe3003adc8e1dad2fe0ae3c671",
@@ -2224,7 +2391,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Gains Network",
-      "symbol": "GNS"
+      "symbol": "GNS",
+      "id": "gains-network"
     },
     {
       "address": "0x7ffc48db599137e7a994bb8309f124e77b392043",
@@ -2256,7 +2424,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "CoinPoker",
-      "symbol": "CHP"
+      "symbol": "CHP",
+      "id": "coinpoker"
     },
     {
       "address": "0x483dd3425278c1f79f377f1034d9d2cae55648b6",
@@ -2264,7 +2433,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "CrowdSwap",
-      "symbol": "CROWD"
+      "symbol": "CROWD",
+      "id": "crowdswap"
     },
     {
       "address": "0x87fcfbd3eae94524d5ef0c42d01f3dfc96142451",
@@ -2280,7 +2450,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Request",
-      "symbol": "REQ"
+      "symbol": "REQ",
+      "id": "request-network"
     },
     {
       "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
@@ -2288,7 +2459,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Bloktopia",
-      "symbol": "BLOK"
+      "symbol": "BLOK",
+      "id": "bloktopia"
     },
     {
       "address": "0x189586b5f6317538ae50c20a976597da38984a24",
@@ -2296,7 +2468,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ChainPort",
-      "symbol": "PORTX"
+      "symbol": "PORTX",
+      "id": "chainport"
     },
     {
       "address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
@@ -2304,7 +2477,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "iZUMi Bond USD",
-      "symbol": "IUSD"
+      "symbol": "IUSD",
+      "id": "izumi-bond-usd"
     },
     {
       "address": "0x03ae3df74ed02a83bf941447f464e8369ba44440",
@@ -2328,7 +2502,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Quidd",
-      "symbol": "QUIDD"
+      "symbol": "QUIDD",
+      "id": "quidd"
     },
     {
       "address": "0x503836c8c3a453c57f58cc99b070f2e78ec14fc0",
@@ -2336,7 +2511,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "SPORT",
-      "symbol": "SPORT"
+      "symbol": "SPORT",
+      "id": "sport"
     },
     {
       "address": "0xcf32822ff397ef82425153a9dcb726e5ff61dca7",
@@ -2344,7 +2520,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "GAMEE",
-      "symbol": "GMEE"
+      "symbol": "GMEE",
+      "id": "gamee"
     },
     {
       "address": "0x873801ae2ff12d816db9a7b082f5796bec64c82c",
@@ -2368,7 +2545,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "MetaSoccer",
-      "symbol": "MSU"
+      "symbol": "MSU",
+      "id": "metasoccer"
     },
     {
       "address": "0x29f1e986fca02b7e54138c04c4f503dddd250558",
@@ -2376,7 +2554,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "VESQ",
-      "symbol": "VSQ"
+      "symbol": "VSQ",
+      "id": "vesq"
     },
     {
       "address": "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
@@ -2384,7 +2563,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Pleasure Coin",
-      "symbol": "NSFW"
+      "symbol": "NSFW",
+      "id": "pleasure-coin"
     },
     {
       "address": "0xd3b71117e6c1558c1553305b44988cd944e97300",
@@ -2392,7 +2572,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Yel.Finance",
-      "symbol": "YEL"
+      "symbol": "YEL",
+      "id": "yel-finance"
     },
     {
       "address": "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94",
@@ -2400,7 +2581,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Stader",
-      "symbol": "SD"
+      "symbol": "SD",
+      "id": "stader"
     },
     {
       "address": "0xcec974b72997b921f629dae516b890b72aa0beca",
@@ -2416,7 +2598,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "ZED RUN",
-      "symbol": "ZED"
+      "symbol": "ZED",
+      "id": "zed-run"
     },
     {
       "address": "0x8f06208951e202d30769f50faec22aeec7621be2",
@@ -2432,7 +2615,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Frax",
-      "symbol": "FRAX"
+      "symbol": "FRAX",
+      "id": "frax"
     },
     {
       "address": "0x3f5967b4926394f6e71e1c59fd4a8e68af80d2d8",
@@ -2448,7 +2632,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Archethic",
-      "symbol": "UCO"
+      "symbol": "UCO",
+      "id": "archethic"
     },
     {
       "address": "0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015",
@@ -2456,7 +2641,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "THX Network",
-      "symbol": "THX"
+      "symbol": "THX",
+      "id": "thx-network"
     },
     {
       "address": "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58",
@@ -2464,7 +2650,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Ankr Reward Earning MATIC",
-      "symbol": "AMATICC"
+      "symbol": "AMATICC",
+      "id": "ankr-reward-earning-matic"
     },
     {
       "address": "0x5dd175a4242afe19e5c1051d8cd13fc8979f2329",
@@ -2472,7 +2659,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Reverse",
-      "symbol": "RVRS"
+      "symbol": "RVRS",
+      "id": "reverse"
     },
     {
       "address": "0xb85517b87bf64942adf3a0b9e4c71e4bc5caa4e5",
@@ -2496,7 +2684,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Vulcan Forged",
-      "symbol": "PYR"
+      "symbol": "PYR",
+      "id": "vulcan-forged"
     },
     {
       "address": "0x91c89a94567980f0e9723b487b0bed586ee96aa7",
@@ -2512,7 +2701,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Render",
-      "symbol": "RNDR"
+      "symbol": "RNDR",
+      "id": "render-token"
     },
     {
       "address": "0xb25f5d89e1a6332990124d537b2d5b4201373b41",
@@ -2536,7 +2726,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Adamant",
-      "symbol": "ADDY"
+      "symbol": "ADDY",
+      "id": "adamant"
     },
     {
       "address": "0x825a381355a51f50a39a18b7c69627380ca38b80",
@@ -2552,7 +2743,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Frax Share",
-      "symbol": "FXS"
+      "symbol": "FXS",
+      "id": "frax-share"
     },
     {
       "address": "0x255707b70bf90aa112006e1b07b9aea6de021424",
@@ -2560,7 +2752,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "TETU",
-      "symbol": "TETU"
+      "symbol": "TETU",
+      "id": "tetu"
     },
     {
       "address": "0xb2c63830d4478cb331142fac075a39671a5541dc",
@@ -2568,7 +2761,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Bombcrypto Coin",
-      "symbol": "BOMB"
+      "symbol": "BOMB",
+      "id": "bombcrypto-coin"
     },
     {
       "address": "0x5d48a5e5a3e737322ae27e25897f1c9e19ecc941",
@@ -2576,7 +2770,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "OkLetsPlay",
-      "symbol": "OKLP"
+      "symbol": "OKLP",
+      "id": "okletsplay"
     },
     {
       "address": "0x6aca77cf3bab0c4e8210a09b57b07854a995289a",
@@ -2584,7 +2779,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Meeds DAO",
-      "symbol": "MEED"
+      "symbol": "MEED",
+      "id": "meeds-dao"
     },
     {
       "address": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
@@ -2592,7 +2788,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "PolkaBridge",
-      "symbol": "PBR"
+      "symbol": "PBR",
+      "id": "polkabridge"
     },
     {
       "address": "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed",
@@ -2600,7 +2797,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "axlUSDC",
-      "symbol": "AXLUSDC"
+      "symbol": "AXLUSDC",
+      "id": "axlusdc"
     },
     {
       "address": "0x2ab4f9ac80f33071211729e45cfc346c1f8446d5",
@@ -2608,7 +2806,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Chain Guardians",
-      "symbol": "CGG"
+      "symbol": "CGG",
+      "id": "chain-guardians"
     },
     {
       "address": "0xca80bfcb11937797896f6ea3fcc70a4d1e2528c6",
@@ -2624,7 +2823,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Popcorn",
-      "symbol": "POP"
+      "symbol": "POP",
+      "id": "popcorn"
     },
     {
       "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
@@ -2632,7 +2832,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Sifchain",
-      "symbol": "EROWAN"
+      "symbol": "EROWAN",
+      "id": "sifchain"
     },
     {
       "address": "0xbae28251b2a4e621aa7e20538c06dee010bc06de",
@@ -2648,7 +2849,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Aavegotchi KEK",
-      "symbol": "KEK"
+      "symbol": "KEK",
+      "id": "aavegotchi-kek"
     },
     {
       "address": "0x8839e639f210b80ffea73aedf51baed8dac04499",
@@ -2656,7 +2858,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "DecentraWeb",
-      "symbol": "DWEB"
+      "symbol": "DWEB",
+      "id": "decentraweb"
     },
     {
       "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
@@ -2664,7 +2867,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "JPY Coin",
-      "symbol": "JPYC"
+      "symbol": "JPYC",
+      "id": "jpy-coin"
     },
     {
       "address": "0xfe4546fefe124f30788c4cc1bb9aa6907a7987f9",
@@ -2672,7 +2876,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "CelsiusX Wrapped ETH",
-      "symbol": "CXETH"
+      "symbol": "CXETH",
+      "id": "celsiusx-wrapped-eth"
     },
     {
       "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
@@ -2680,7 +2885,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Dogelon Mars",
-      "symbol": "ELON"
+      "symbol": "ELON",
+      "id": "dogelon-mars"
     },
     {
       "address": "0x5dd05762b831a977b974db8759772d41f3d5ff0b",
@@ -2712,7 +2918,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "GameStation",
-      "symbol": "GAMER"
+      "symbol": "GAMER",
+      "id": "gamestation"
     },
     {
       "address": "0xb4eef1853f04aeef75f5c476dd27170af2f8c124",
@@ -2736,7 +2943,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Blockchain Monster Hunt",
-      "symbol": "BCMC"
+      "symbol": "BCMC",
+      "id": "blockchain-monster-hunt"
     },
     {
       "address": "0x2c826035c1c36986117a0e949bd6ad4bab54afe2",
@@ -2744,7 +2952,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "XIDR",
-      "symbol": "XIDR"
+      "symbol": "XIDR",
+      "id": "straitsx-indonesia-rupiah"
     },
     {
       "address": "0x92bc61bd96f275ea5507a3e1e5fbf0bc69cc98dc",
@@ -2760,7 +2969,8 @@
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
       "name": "Playermon",
-      "symbol": "PYM"
+      "symbol": "PYM",
+      "id": "playermon"
     },
     {
       "address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
@@ -2776,7 +2986,8 @@
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 137,
-      "name": "Meta (PoS)"
+      "name": "Meta (PoS)",
+      "id": "meta"
     },
     {
       "symbol": "ROLL",
@@ -2784,7 +2995,8 @@
       "address": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 137
+      "chainId": 137,
+      "id": "polyroll"
     },
     {
       "symbol": "POOL",
@@ -2792,7 +3004,8 @@
       "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 137
+      "chainId": 137,
+      "id": "pooltogether"
     },
     {
       "symbol": "SPHERE",
@@ -2800,7 +3013,8 @@
       "address": "0x62f594339830b90ae4c084ae7d223ffafd9658a7",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 137
+      "chainId": 137,
+      "id": "sphere-finance"
     },
     {
       "symbol": "SNX",
@@ -2808,7 +3022,8 @@
       "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
       "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 137
+      "chainId": 137,
+      "id": "havven"
     }
   ],
   "version": {
