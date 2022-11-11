@@ -6220,6 +6220,15 @@
       "name": "Abacate Token",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 56
+    },
+    {
+      "id": "xmine",
+      "symbol": "XMN",
+      "name": "Xmine",
+      "address": "0x0fa9651a0ecc19906843c13c60443300b9d37355",
+      "decimals": 9,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56
     }
   ],
   "version": {
