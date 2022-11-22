@@ -6238,6 +6238,68 @@
       "decimals": 9,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 56
+    },
+    {
+      "id": "save-baby-doge",
+      "symbol": "BABYDOGE",
+      "name": "Save Baby Doge",
+      "address": "0x43f102bbd52259f2cfd0ef82e8807e3610ae3e40",
+      "decimals": 9,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56
+    },
+    {
+      "id": "binance-peg-avalanche",
+      "symbol": "AVAX",
+      "name": "Binance-Peg Avalanche",
+      "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "symbol": "SNX",
+      "name": "Synthetix Network Token",
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "id": "shiba-floki",
+      "symbol": "FLOKI",
+      "name": "Shiba Floki Inu",
+      "address": "0x4aadad81487c3fadd9f162b851e6a61b729200cb",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "id": "titano",
+      "symbol": "TITANO",
+      "name": "Titano",
+      "address": "0x4e3cabd3ad77420ff9031d19899594041c420aee",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "id": "winklink-bsc",
+      "symbol": "win",
+      "name": "WINkLink BSC",
+      "address": "0xaef0d72a118ce24fee3cd1d43d383897d05b4e99",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "id": "axie-infinity",
+      "symbol": "axs",
+      "name": "Axie Infinity",
+      "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+      "decimals": 18,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56
     }
   ],
   "version": {
