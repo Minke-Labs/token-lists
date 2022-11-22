@@ -6240,15 +6240,6 @@
       "chainId": 56
     },
     {
-      "id": "save-baby-doge",
-      "symbol": "BABYDOGE",
-      "name": "Save Baby Doge",
-      "address": "0x43f102bbd52259f2cfd0ef82e8807e3610ae3e40",
-      "decimals": 9,
-      "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
-    },
-    {
       "id": "binance-peg-avalanche",
       "symbol": "AVAX",
       "name": "Binance-Peg Avalanche",
