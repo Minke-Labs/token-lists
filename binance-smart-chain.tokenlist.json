@@ -3,9 +3,9 @@
   "logoURI": "https://www.minke.app/assets/images/logo.png",
   "keywords": ["binance smart chain", "bsc", "minke"],
   "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    "slippage": {
+      "name": "High slippage",
+      "description": "Tokens that need a high slippage to exchange"
     }
   },
   "timestamp": "2022-11-07T00:00:00+00:00",
@@ -6164,21 +6164,13 @@
       "symbol": "APN"
     },
     {
-      "address": "0x5f320c3b8f82acfe8f2bb1c85d63aa66a7ff524f",
-      "decimals": 9,
-      "symbol": "NLC",
-      "name": "Nelore Coin",
-      "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56,
-      "id": "nelore-coin"
-    },
-    {
       "address": "0x0f4C0d01F4057dCA10C17120076Bb45A15d4E7Cb",
       "decimals": 18,
       "symbol": "VLZ",
       "name": "ValozCrypto",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "address": "0xfa0c91BE7FfFd2e0Ae7589f72722933f6B9592Db",
@@ -6203,7 +6195,8 @@
       "symbol": "VINO",
       "name": "Vinocoin",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "address": "0x9E95A285eB16a4Dc6254F5354E8C2214B3E4a9D4",
@@ -6211,7 +6204,8 @@
       "symbol": "BULLS",
       "name": "Bulls Coin",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "address": "0x82ac10793401d79ee38ad0b7d7797ada14c6d029",
@@ -6219,7 +6213,8 @@
       "symbol": "ABACATE",
       "name": "Abacate Token",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "id": "xmine",
@@ -6237,7 +6232,8 @@
       "address": "0x5f320c3b8f82acfe8f2bb1c85d63aa66a7ff524f",
       "decimals": 9,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "id": "binance-peg-avalanche",
