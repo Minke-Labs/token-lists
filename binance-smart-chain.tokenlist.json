@@ -3,9 +3,9 @@
   "logoURI": "https://www.minke.app/assets/images/logo.png",
   "keywords": ["binance smart chain", "bsc", "minke"],
   "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    "slippage": {
+      "name": "High slippage",
+      "description": "Tokens that need a high slippage to exchange"
     }
   },
   "timestamp": "2022-11-07T00:00:00+00:00",
@@ -6164,21 +6164,13 @@
       "symbol": "APN"
     },
     {
-      "address": "0x5f320c3b8f82acfe8f2bb1c85d63aa66a7ff524f",
-      "decimals": 9,
-      "symbol": "NLC",
-      "name": "Nelore Coin",
-      "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56,
-      "id": "nelore-coin"
-    },
-    {
       "address": "0x0f4C0d01F4057dCA10C17120076Bb45A15d4E7Cb",
       "decimals": 18,
       "symbol": "VLZ",
       "name": "ValozCrypto",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "address": "0xfa0c91BE7FfFd2e0Ae7589f72722933f6B9592Db",
@@ -6203,7 +6195,8 @@
       "symbol": "VINO",
       "name": "Vinocoin",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "address": "0x9E95A285eB16a4Dc6254F5354E8C2214B3E4a9D4",
@@ -6211,7 +6204,8 @@
       "symbol": "BULLS",
       "name": "Bulls Coin",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "address": "0x82ac10793401d79ee38ad0b7d7797ada14c6d029",
@@ -6219,7 +6213,8 @@
       "symbol": "ABACATE",
       "name": "Abacate Token",
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56
+      "chainId": 56,
+      "tags": ["slippage"]
     },
     {
       "id": "xmine",
@@ -6227,6 +6222,69 @@
       "name": "Xmine",
       "address": "0x0fa9651a0ecc19906843c13c60443300b9d37355",
       "decimals": 9,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56
+    },
+    {
+      "id": "nelore-coin",
+      "symbol": "NLC",
+      "name": "Nelore Coin",
+      "address": "0x5f320c3b8f82acfe8f2bb1c85d63aa66a7ff524f",
+      "decimals": 9,
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "tags": ["slippage"]
+    },
+    {
+      "id": "binance-peg-avalanche",
+      "symbol": "AVAX",
+      "name": "Binance-Peg Avalanche",
+      "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "symbol": "SNX",
+      "name": "Synthetix Network Token",
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "id": "shiba-floki",
+      "symbol": "FLOKI",
+      "name": "Shiba Floki Inu",
+      "address": "0x4aadad81487c3fadd9f162b851e6a61b729200cb",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "id": "titano",
+      "symbol": "TITANO",
+      "name": "Titano",
+      "address": "0x4e3cabd3ad77420ff9031d19899594041c420aee",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "id": "winklink-bsc",
+      "symbol": "win",
+      "name": "WINkLink BSC",
+      "address": "0xaef0d72a118ce24fee3cd1d43d383897d05b4e99",
+      "logoURI": "https://cdn.paraswap.io/token/token.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "id": "axie-infinity",
+      "symbol": "axs",
+      "name": "Axie Infinity",
+      "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+      "decimals": 18,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
       "chainId": 56
     }
