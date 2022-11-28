@@ -6253,13 +6253,13 @@
       "decimals": 18
     },
     {
-      "id": "shiba-floki",
-      "symbol": "FLOKI",
-      "name": "Shiba Floki Inu",
-      "address": "0x4aadad81487c3fadd9f162b851e6a61b729200cb",
+      "id": "floki",
+      "symbol": "floki",
+      "name": "FLOKI",
+      "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
+      "decimals": 9,
       "logoURI": "https://cdn.paraswap.io/token/token.png",
-      "chainId": 56,
-      "decimals": 18
+      "chainId": 56
     },
     {
       "id": "titano",
